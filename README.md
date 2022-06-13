@@ -13,8 +13,8 @@ Dins del directori Llenguate, L’estructura segueix la mateixa estructura que e
   - [Estructura](./Llenguatge/Estructura/Estructura.md)
   - [Funcions](./Llenguatge/Funcions/Funcions.md)
   - [Variables](./Llenguatge/Variables/Variables.md)
-- [README](https://github.com/qserrano/arduino-reference-ca/README.md)
-- [LLICÉNCIA](https://github.com/qserrano/arduino-reference-ca/LLICENCIA.md)
+- [README](https://github.com/qserrano/arduino-reference-ca/blob/main/README.md)
+- [LLICÉNCIA](https://github.com/qserrano/arduino-reference-ca/blob/main/LLICENCIA.md)
 
 ## Llicència
 
@@ -22,4 +22,4 @@ Dins del directori Llenguate, L’estructura segueix la mateixa estructura que e
 
 Aquesta obra té llicència sota una [Llicència Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en).
 
-[LLICENCIA](https://github.com/qserrano/arduino-reference-ca/LLICENCIA.md)
+[LLICENCIA](https://github.com/qserrano/arduino-reference-ca/blob/main/LLICENCIA.md)
