@@ -1,0 +1,40 @@
+
+| títol | descripció   | categoria  | subcategoria        |
+| :---: | :----------: | :--------: | :-----------------: |
+| SPI.setClockDivider() | | Funcions | Comunicació |
+
+# SPI.setClockDivider()
+
+### Descripció
+
+Aquesta funció no s'ha d'utilitzar en projectes nous. Utilitzeu SPISettings. amb SPI.beginTransaction(). per configurar els paràmetres SPI.
+
+Estableix el divisor de rellotge SPI en relació al rellotge del sistema. A les plaques basades en AVR, els divisors disponibles són 2, 4, 8, 16, 32, 64 o 128. La configuració predeterminada és SPI_CLOCK_DIV4, que estableix el rellotge SPI a una quarta part de la freqüència del rellotge del sistema (4 Mhz per a les plaques). a 16 MHz).
+
+Per a Arduino Due: a Due, el rellotge del sistema es pot dividir per valors d'1 a 255. El valor predeterminat és 21, que estableix el rellotge a 4 MHz com altres plaques Arduino.
+
+### Sintaxi
+
+* `SPI.setClockDivider(divisor)`
+
+### Paràmetres
+
+* `divisor` (només plaques AVR):
+    * SPI_CLOCK_DIV2
+    * SPI_CLOCK_DIV4
+    * SPI_CLOCK_DIV8
+    * SPI_CLOCK_DIV16
+    * SPI_CLOCK_DIV32
+    * SPI_CLOCK_DIV64
+    * SPI_CLOCK_DIV128
+
+* `chipSelectPin`: dispositiu perifèric CS pin (només Arduino Due) `divisor`: un nombre de l'1 al 255 (només Arduino Due)
+
+### Devolucions
+
+Cap.
+
+### Vegeu també
+
+*  LLENGUATGE [SPI](../spi.md)
+*  LLENGUATGE [Funcions](../../Funcions.md)
