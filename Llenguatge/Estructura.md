@@ -4,8 +4,8 @@ Els elements del codi Arduino (C++).
 
 | **Sketch**                                                        | **Operadors aritmètics**                                       | **Operadors de punters**                                        |
 |-------------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------|
-| [loop()](./Sketch/loop().md)                                      | [% (modul)](./Operadors-aritmetics/modul.md)                   | [& (reference operator)](./Operadors-punters/referencia.md)     |
-| [setup()](./Sketch/setup().md)                                    | [* (producte)](./Operadors-aritmetics/producte.md)             | [* (dereference operator)](./Operadors-punters/dereferencia.md) |
+| [loop()](Estructura/Sketch/loop().md)                             | [% (modul)](./Operadors-aritmetics/modul.md)                   | [& (reference operator)](./Operadors-punters/referencia.md)     |
+| [setup()](Estructura/Sketch/setup().md)                           | [* (producte)](./Operadors-aritmetics/producte.md)             | [* (dereference operator)](./Operadors-punters/dereferencia.md) |
 |                                                                   | [+ (suma)](./Operadors-aritmetics/suma)                        |                                                                 |
 | **Estructures de control**                                        | [- (resta)](./Operadors-aritmetics/resta.md)                   | **Operadors bit a bit**                                         |
 | [break](./Control/break.md)                                       | [/ (divisio)](./Operadors-aritmetics/divisio.md)               | [& (and bit a bit)](./Operadors-bitabit/bitabitand.md)          |
