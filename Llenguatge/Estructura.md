@@ -1,8 +1,8 @@
 ---
 títol: Estructura
 descripció: ""
-categoria: [ "Estructura" ]
-subcategoria: [ "" ]
+categoria: "Estructura"
+subcategoria: ""
 ---
 
 # Estructura
@@ -36,4 +36,4 @@ Els elements del codi Arduino (C++).
 
 ## Vegeu també
 
-*  [README](../../README.md)
+*  [README](../../../README.md)
