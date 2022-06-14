@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| ^     | or exclusiu  | Estructura | Operadors bit a bit |
+---
+títol: "^"
+descripció: "or exclusiu bit a bit"
+categoria: "Estructura"
+subcategoria: "Operadors bit a bit"
+---
 
 # ^
 
@@ -44,5 +46,5 @@ void loop() {
 
 ### Vegeu també
 
-*  EXEMPLE [Tutorial BitMath](https://www.arduino.cc/playground/Code/BitMath)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+EXEMPLE [Tutorial BitMath](https://www.arduino.cc/playground/Code/BitMath)  
+LLENGUATGE [Estructura](../../Estructura.md)  

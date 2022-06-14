@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| \|    | or bit a bit | Estructura | Operadors bit a bit |
+---
+títol: "|"
+descripció: "or bit a bit"
+categoria: "Estructura"
+subcategoria: "Operadors bit a bit"
+---
 
 # |
 
@@ -37,6 +39,6 @@ DDRD = DDRD | 0b11111100;
 
 ### Vegeu també
 
-*  EXEMPLE [Tutorial BitMath](https://www.arduino.cc/playground/Code/BitMath)  
-*  LLENGUATGE [OR lògic](../Operadors-booleans/orlogic.md)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+EXEMPLE [Tutorial BitMath](https://www.arduino.cc/playground/Code/BitMath)  
+LLENGUATGE [OR lògic](../Operadors-booleans/orlogic.md)  
+LLENGUATGE [Estructura](../,,/Estructura.md)  

@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| ~     | not bit a bit | Estructura | Operadors bit a bit |
+---
+títol: "~"
+descripció: "not bit a bit"
+categoria: "Estructura"
+subcategoria: "Operadors bit a bit"
+---
 
 # ~
 
@@ -35,5 +37,5 @@ Vegeu també
 
 ### Vegeu també
 
-*  EXEMPLE [Tutorial BitMath](https://www.arduino.cc/playground/Code/BitMath)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+EXEMPLE [Tutorial BitMath](https://www.arduino.cc/playground/Code/BitMath)  
+LLENGUATGE [Estructura](../../Estructura.md)  

@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| &     | and bit a bit | Estructura | Operadors bit a bit |
+---
+títol: "&"
+descripció: "and bit a bit"
+categoria: "Estructura"
+subcategoria: "Operadors bit a bit"
+---
 
 # &
 
@@ -38,6 +40,6 @@ Un dels usos més habituals de AND bit a bit és seleccionar un bit (o bits) en 
 
 ### Vegeu també
 
-*  LLENGUATGE [&& AND lògic](../Operador-booleans/andlogic.md)  
-*  EXEMPLE [Tutorial BitMath](https://www.arduino.cc/playground/Code/BitMath)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+EXEMPLE [Tutorial BitMath](https://www.arduino.cc/playground/Code/BitMath)  
+LLENGUATGE [&& AND lògic](../Operadors-booleans/andlogic.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

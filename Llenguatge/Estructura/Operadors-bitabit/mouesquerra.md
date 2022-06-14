@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| <<    | desplaçament esquerra  | Estructura | Operadors bit a bit |
+---
+títol: "<<"
+descripció: "mou a esquerra bit a bit"
+categoria: "Estructura"
+subcategoria: "Operadors bit a bit"
+---
 
 # <<
 
@@ -11,12 +13,12 @@ L'operador de desplaçament a l'esquerra << fa que els bits de l'operand esquerr
 
 ### Sintaxi
 
-*  `variable << nombre_de_bits;`
+`variable << nombre_de_bits;`
 
 ### Paràmetres
 
-*  `variable`: tipus de dades permesos: byte, int, long.  
-*  `nombre_de_bits`: un nombre que és < = 32. Tipus de dades permesos: int.
+`variable`: tipus de dades permesos: byte, int, long.  
+`nombre_de_bits`: un nombre que és < = 32. Tipus de dades permesos: int.
 
 ### Exemple de codi
 
@@ -70,5 +72,5 @@ void printOut1(int c) {
 
 ### Vegeu també
 
-*  EXEMPLE [Tutorial BitMath](https://www.arduino.cc/playground/Code/BitMath)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+EXEMPLE [Tutorial BitMath](https://www.arduino.cc/playground/Code/BitMath)  
+LLENGUATGE [Estructura](../../Estructura.md)  
