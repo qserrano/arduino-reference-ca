@@ -1,7 +1,9 @@
-
-| títol       | descripció   | categoria  | subcategoria        |
-| :---------: | :----------: | :--------: | :-----------------: |
-| goto        |              | Estructura | Control             |
+---
+títol: goto
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Control"
+---
 
 # goto
 
@@ -11,8 +13,8 @@ Transfereix el flux del programa a un punt etiquetat en el programa
 
 ### Sintaxi
 
-*  `label:`  
-*  `goto label;` // envia el fluxe de programa a label
+`label:`  
+`goto label;` // envia el fluxe de programa a label
 
 ### Codi d'exemple
 
@@ -39,4 +41,4 @@ Dit això, hi ha casos en els quals una instrucció goto pot ser útil i simplif
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)
+LLENGUATGE [Estructura](../../Estructura.md)

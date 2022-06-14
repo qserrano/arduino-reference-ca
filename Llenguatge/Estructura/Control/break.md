@@ -1,8 +1,8 @@
 ---
 títol: break
 descripció: ""
-categoria: [ "Estructura" ]
-subcategoria: [ "Control" ]
+categoria: "Estructura"
+subcategoria: "Control"
 ---
 
 

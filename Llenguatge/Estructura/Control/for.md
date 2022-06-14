@@ -1,7 +1,9 @@
-
-| títol       | descripció   | categoria  | subcategoria        |
-| :---------: | :----------: | :--------: | :-----------------: |
-| for         |              | Estructura | Control             |
+---
+títol: for
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Control"
+---
 
 # for
 
@@ -19,9 +21,9 @@ for (initialization; condition; increment) {
 
 ### Paràmetres
 
-*  `initialization`: succeeix primer i exactament una vegada.  
-*  `condition`: cada vegada que es passa pel cicle, es prova la condició; si és vertader, s'executa el bloc d'instrucció i l'increment, llavors la condició es prova novament. Quan la condició es torna falsa, el cicle acaba.  
-*  `increment`: s'executa cada vegada que passa pel cicle quan la condició és vertadera.
+`initialization`: succeeix primer i exactament una vegada.  
+`condition`: cada vegada que es passa pel cicle, es prova la condició; si és vertader, s'executa el bloc d'instrucció i l'increment, llavors la condició es prova novament. Quan la condició es torna falsa, el cicle acaba.  
+`increment`: s'executa cada vegada que passa pel cicle quan la condició és vertadera.
 
 ### Codi d'exemple
 
@@ -72,4 +74,4 @@ void loop() {
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)
+LLENGUATGE [Estructura](../../Estructura.md)

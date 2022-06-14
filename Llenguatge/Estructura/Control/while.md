@@ -1,7 +1,9 @@
-
-| títol         | descripció   | categoria  | subcategoria        |
-| :-----------: | :----------: | :--------: | :-----------------: |
-| while         |              | Estructura | Control             |
+---
+títol: while
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Control"
+---
 
 # while
 
@@ -19,7 +21,7 @@ while (condició) {
 
 ### Paràmetres
 
-*  `condició`: una expressió booleana que s'avalua com a vertadera o falsa.
+`condició`: una expressió booleana que s'avalua com a vertadera o falsa.
 
 ### Codi d'exemple
 
@@ -32,5 +34,5 @@ while (var < 200) {
 ```
 
 ### Veure també
-*  EXEMPLE [While Loop](https://www.arduino.cc/en/Tutorial/BuiltInExamples/WhileStatementConditional)  
-*  LLENGUATGE [Estructura](../Estructura.md)
+EXEMPLE [While Loop](https://www.arduino.cc/en/Tutorial/BuiltInExamples/WhileStatementConditional)  
+LLENGUATGE [Estructura](../../Estructura.md)

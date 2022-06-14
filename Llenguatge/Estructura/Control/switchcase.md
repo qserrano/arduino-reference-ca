@@ -1,7 +1,9 @@
-
-| títol         | descripció   | categoria  | subcategoria        |
-| :-----------: | :----------: | :--------: | :-----------------: |
-| switch...case |              | Estructura | Control             |
+---
+títol: switch...case
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Control"
+---
 
 # switch...case
 
@@ -29,8 +31,8 @@ switch (var) {
 
 ### Paràmetres
 
-*  `var`: una variable el valor de la qual comparar amb diversos casos. Tipus de dades permeses: int, char.  
-*  `label1`, `label2`: constants. Tipus de dades permeses: int, char.
+`var`: una variable el valor de la qual comparar amb diversos casos. Tipus de dades permeses: int, char.  
+`label1`, `label2`: constants. Tipus de dades permeses: int, char.
 
 ### Devolucions
 
@@ -55,4 +57,4 @@ switch (var) {
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)
+LLENGUATGE [Estructura](../../Estructura.md)

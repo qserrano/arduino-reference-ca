@@ -1,7 +1,9 @@
-
-| títol       | descripció   | categoria  | subcategoria        |
-| :---------: | :----------: | :--------: | :-----------------: |
-| else        |              | Estructura | Control             |
+---
+títol: else
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Control"
+---
 
 # else
 
@@ -45,4 +47,4 @@ else { // temperature < 60
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)
+LLENGUATGE [Estructura](../../Estructura.md)

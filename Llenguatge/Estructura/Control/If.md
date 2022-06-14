@@ -1,9 +1,11 @@
+---
+títol: if
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Control"
+---
 
-| títol       | descripció   | categoria  | subcategoria        |
-| :---------: | :----------: | :--------: | :-----------------: |
-| if          |              | Estructura | Control             |
-
-# If
+# if
 
 ### Descripció
 
@@ -19,7 +21,7 @@ if (condition) {
 
 ### Paràmetres
 
-*  `condition`: una expressió booleana (és a dir, pot ser vertadera o falsa).
+`condition`: una expressió booleana (és a dir, pot ser vertadera o falsa).
 
 ### Codi d'exemple
 
@@ -58,4 +60,4 @@ Això es deu al fet que C++ avalua la declaració if (x=10) de la següent maner
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)
+LLENGUATGE [Estructura](../../Estructura.md)

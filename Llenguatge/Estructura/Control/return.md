@@ -1,7 +1,9 @@
-
-| títol       | descripció   | categoria  | subcategoria        |
-| :---------: | :----------: | :--------: | :-----------------: |
-| return      |              | Estructura | Control             |
+---
+títol: return
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Control"
+---
 
 # return
 
@@ -11,12 +13,12 @@ Finalitze una funció i retorne un valor d'una funció a la funció que anomena,
 
 ### Sintaxi
 
-*  `return;`  
-*  `return value;`
+`return;`  
+`return value;`
 
 ### Paràmetres
 
-*  `value`: Tipus de dades permeses: qualsevol variable o tipus constant.
+`value`: Tipus de dades permeses: qualsevol variable o tipus constant.
 
 ### Codi d'exemple
 
@@ -48,4 +50,4 @@ void loop() {
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)
+LLENGUATGE [Estructura](../../Estructura.md)

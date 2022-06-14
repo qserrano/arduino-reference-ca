@@ -1,7 +1,9 @@
-
-| títol       | descripció   | categoria  | subcategoria        |
-| :---------: | :----------: | :--------: | :-----------------: |
-| do .. while |              | Estructura | Control             |
+---
+títol: do...while
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Control"
+---
 
 # do...while
 
@@ -33,4 +35,4 @@ do {
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)
+LLENGUATGE [Estructura](../../Estructura.md)
