@@ -5,10 +5,6 @@ categoria: "Estructura"
 subcategoria: "Operadors compostos"
 ---
 
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| ++    | increment    | Estructura | Operadors compostos |
-
 # ++
 
 ### Descripció
