@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| \#define |   | Estructura | Sintaxi adicional |
+---
+títol: "#define"
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Sintaxi adicional"
+---
 
 # #define
 
@@ -15,12 +17,12 @@ En general, es prefereix la paraula clau const per a definir constants i ha d'us
 
 ### Sintaxi
 
-*  `#define constantName value`
+`#define constantName value`
 
 ### Paràmetres
 
-*  `constantName`: el nom de la macro a definir.  
-*  `value`: el valor a assignar a la macro.
+`constantName`: el nom de la macro a definir.  
+`value`: el valor a assignar a la macro.
 
 ### Codi d'exemple
 
@@ -45,6 +47,6 @@ De manera similar, incloure un signe igual després de la declaració #define ta
 
 ### Vegeu també
 
-*  LLENGUATGE [constant](../../Variables/Abast-variable/const.md)  
-*  LLENGUATGE [Constants](../../Variables/Constants/constants.md)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [constant](../../Variables/Abast-variable/const.md)  
+LLENGUATGE [Constants](../../Variables/Constants/constants.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

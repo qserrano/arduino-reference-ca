@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| // | Comentari  | Estructura | Sintaxi adicional |
+---
+títol: "//"
+descripció: "comentari"
+categoria: "Estructura"
+subcategoria: "Sintaxi adicional"
+---
 
 # //
 
@@ -28,4 +30,4 @@ En experimentar amb el codi, "comentar" parts del seu programa és una forma con
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

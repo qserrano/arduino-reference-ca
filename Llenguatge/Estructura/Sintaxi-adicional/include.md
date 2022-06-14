@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| \#include |   | Estructura | Sintaxi adicional |
+---
+títol: "#include"
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Sintaxi adicional"
+---
 
 # #include
 
@@ -15,13 +17,13 @@ Tinga en compte que #include, similar a #define, no té terminador de punt i com
 
 ### Sintaxi
 
-*  `#include <LibraryFile.h>`  
-*  `#include "LocalFile.h"`
+`#include <LibraryFile.h>`  
+`#include "LocalFile.h"`
 
 ### Paràmetres
 
-*  `LibraryFile.h`: quan s'usa la sintaxi de claudàtors angulars, es buscarà l'arxiu en les rutes de les biblioteques.  
-*  `LocalFile.h`: quan s'usa la sintaxi de cometes dobles, la carpeta de l'arxiu que usa la directiva `#include` es buscarà per a l'arxiu especificat, després les rutes de les biblioteques si no es troba en la ruta local. Utilitze aquesta sintaxi per a arxius d'encapçalat en la carpeta de l'esbós.
+`LibraryFile.h`: quan s'usa la sintaxi de claudàtors angulars, es buscarà l'arxiu en les rutes de les biblioteques.  
+`LocalFile.h`: quan s'usa la sintaxi de cometes dobles, la carpeta de l'arxiu que usa la directiva `#include` es buscarà per a l'arxiu especificat, després les rutes de les biblioteques si no es troba en la ruta local. Utilitze aquesta sintaxi per a arxius d'encapçalat en la carpeta de l'esbós.
 
 ### Codi d'exemple
 
@@ -51,4 +53,4 @@ void loop() {
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| ; | Final de declaració  | Estructura | Sintaxi adicional |
+---
+títol: ";"
+descripció: "final de declaracio"
+categoria: "Estructura"
+subcategoria: "Sintaxi adicional"
+---
 
 # ;
 
@@ -21,4 +23,4 @@ Si oblideu acabar una línia amb punt i coma, es produirà un error del compilad
 
 ### Vegeu també
 
-  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

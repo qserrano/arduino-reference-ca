@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| {} | Final de declaració  | Estructura | Sintaxi adicional |
+---
+títol: "{ }"
+descripció: "Final de declaracio"
+categoria: "Estructura"
+subcategoria: "Sintaxi adicional"
+---
 
 # {}
 
@@ -61,4 +63,4 @@ else {
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

@@ -1,8 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| /* */ | Bloc de comentaris  | Estructura | Sintaxi adicional |
-
+---
+títol: "* *"
+descripció: "bloc de comentaris"
+categoria: "Estructura"
+subcategoria: "Sintaxi adicional"
+---
 
 # /* */
 
@@ -39,4 +40,4 @@ Quan experimenteu amb codi, "comentar" parts del vostre programa és una manera 
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  
