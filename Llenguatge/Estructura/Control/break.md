@@ -29,4 +29,4 @@ for (int x = 0; x < 255; x++) {
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)
+*  LLENGUATGE [Estructura](../../Estructura.md)
