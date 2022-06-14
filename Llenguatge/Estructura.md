@@ -15,7 +15,7 @@ Els elements del codi Arduino (C++).
 | [setup()](./Sketch/setup.md)                                      | [* (producte)](./Operadors-aritmetics/producte.md)             | [* (dereference operator)](./Operadors-punters/dereferencia.md) |
 |                                                                   | [+ (suma)](./Operadors-aritmetics/suma)                        |                                                                 |
 | **Estructures de control**                                        | [- (resta)](./Operadors-aritmetics/resta.md)                   | **Operadors bit a bit**                                         |
-| [break](./Control/break.md)                                       | [/ (divisio)](./Operadors-aritmetics/divisio.md)               | [& (and bit a bit)](./Operadors-bitabit/bitabitand.md)          |
+| [break](./Estructura/Control/break.md)                                       | [/ (divisio)](./Operadors-aritmetics/divisio.md)               | [& (and bit a bit)](./Operadors-bitabit/bitabitand.md)          |
 | [continue](./Control/continue.md)                                 | [= (assignacio)](./Operadors-aritmetics/assignacio.md)         | [<< (desplaçament esquerra)](./Operadors-bitabit/mouesquerra.md)|
 | [do...while](./Control/dowhile.md)                                |                                                                | [>> (desplaçament dreta)](./Operadors-bitabit/moudreta.md)      |
 | [else](./Control/else.md)                                         | **Operadors de comparació**                                    | ['^' (xor exclusiu)](./Operadors-bitabit/xor.md)                  |
