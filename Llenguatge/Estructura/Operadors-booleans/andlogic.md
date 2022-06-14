@@ -1,7 +1,9 @@
-
-| títol | descripció | categoria | subcategoria |
-| :---: | :--------: | :-------: | :----------: |
-| && | and lògic | Estructura | Operadors booleans |
+---
+títol: "&&"
+descripció: "and lògic"
+categoria: "Estructura"
+subcategoria: "Operadors booleans"
+---
 
 # &&
 
@@ -25,5 +27,5 @@ Assegureu-vos de no confondre l'operador AND booleà, && (ampersand doble) amb l
 
 ### Vegeu també
 
-*  LLENGUATGE [& (bit a bit AND)](../Operadors-bitabit/bitabitand.md)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [& (bit a bit AND)](../Operadors-bitabit/bitabitand.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

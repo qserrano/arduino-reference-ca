@@ -1,7 +1,9 @@
-
-| títol | descripció | categoria | subcategoria |
-| :---: | :--------: | :-------: | :----------: |
-| \|\| | or lògic | Estructura | Operadors booleans |
+---
+títol: "||"
+descripció: "or lògic"
+categoria: "Estructura"
+subcategoria: "Operadors booleans"
+---
 
 # ||
 
@@ -25,5 +27,5 @@ No confongueu el booleà || operador (canal doble) amb l'operador OR de bits | (
 
 ### Vegeu també
 
-*  LLENGUATGE [| (bit a bit OR)](../Operadors-bitabit/bitabitor.md)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [| (bit a bit OR)](../Operadors-bitabit/bitabitor.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

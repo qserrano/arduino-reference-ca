@@ -1,7 +1,9 @@
-
-| títol | descripció | categoria | subcategoria |
-| :---: | :--------: | :-------: | :----------: |
-| ! | no lògic | Estructura | Operadors booleans |
+---
+títol: "!"
+descripció: "no lògic"
+categoria: "Estructura"
+subcategoria: "Operadors booleans"
+---
 
 # !
 
@@ -29,5 +31,5 @@ El operador bit a bit not ~ (tilde) sembla molt diferent que el booleà not! (si
 
 ### Vegeu també
 
-*  LLENGUATGE [~ Bit a bit NO](../Operadors-bitabit/bitabitno.md)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [~ Bit a bit NO](../Operadors-bitabit/bitabitno.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  
