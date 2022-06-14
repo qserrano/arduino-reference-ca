@@ -10,9 +10,9 @@ arduino-reference-ca és el repo per a la documentació de referència del lleng
 Dins del directori Llenguate, L’estructura segueix la mateixa estructura que en la Pàgina de Referència de Arduino i els documents estàn dividits en tres grups:
 
 - Llenguatge
-  - [Estructura](./Llenguatge/Estructura/Estructura.md)
-  - [Funcions](./Llenguatge/Funcions/Funcions.md)
-  - [Variables](./Llenguatge/Variables/Variables.md)
+  - [Estructura](./Llenguatge/Estructura.md)
+  - [Funcions](./Llenguatge/Funcions.md)
+  - [Variables](./Llenguatge/Variables.md)
 - README
 - LLICÉNCIA
 
