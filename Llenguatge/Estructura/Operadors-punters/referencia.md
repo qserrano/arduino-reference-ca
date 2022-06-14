@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| & | referència  | Estructura | Operadors amb punters |
+---
+títol: "&"
+descripció: "referencia"
+categoria: "Estructura"
+subcategoria: "Operadors amb punters"
+---
 
 # &
 
@@ -26,5 +28,5 @@ Els punters són un dels temes complicats per als principiants en l'aprenentatge
 
 ### Vegeu també
 
-*  DEFINICIO [Punters](https://en.wikipedia.org/wiki/Pointer_%28computer_programming%29)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+DEFINICIO [Punters](https://en.wikipedia.org/wiki/Pointer_%28computer_programming%29)  
+LLENGUATGE [Estructura](../../Estructura.md)  
