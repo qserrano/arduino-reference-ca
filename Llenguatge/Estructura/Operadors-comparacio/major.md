@@ -1,7 +1,9 @@
-
-| títol | descripció | categoria | subcategoria |
-| :---: | :--------: | :-------: | :----------: |
-| > | major que | Estructura | Operadors de comparació |
+---
+títol: ">"
+descripció: "major que"
+categoria: "Estructura"
+subcategoria: "Operadors de comparació"
+---
 
 # >
 
@@ -11,12 +13,12 @@ Compara la variable de l'esquerra amb el valor o variable de la dreta de l'opera
 
 ### Sintaxi
 
-*  `x > y; // és cert si x és més gran que y i és fals si x és igual o menor que y`
+`x > y; // és cert si x és més gran que y i és fals si x és igual o menor que y`
 
 ### Paràmetres
 
-*  `x`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
-*  `y`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.
+`x`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
+`y`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.
 
 ### Exemple de codi
 
@@ -32,4 +34,4 @@ Els nombres positius són més grans que els negatius.
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

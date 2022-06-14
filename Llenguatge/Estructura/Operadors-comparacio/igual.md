@@ -1,7 +1,9 @@
-
-| títol | descripció | categoria | subcategoria |
-| :---: | :--------: | :-------: | :----------: |
-| == | igual que | Estructura | Operadors de comparació |
+---
+títol: "=="
+descripció: "igual que"
+categoria: "Estructura"
+subcategoria: "Operadors de comparació"
+---
 
 # == (igual que)
 
@@ -11,12 +13,12 @@ Compara la variable de l'esquerra amb el valor o variable de la dreta de l'opera
 
 ### Sintaxi
 
-*  `x == y; // és cert si x és igual a y i és fals si x no és igual a y`
+`x == y; // és cert si x és igual a y i és fals si x no és igual a y`
 
 ### Paràmetres
 
-*  `x`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
-*  `y`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.
+`x`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
+`y`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.
 
 ### Exemple de codi
 
@@ -28,4 +30,4 @@ if (x == y) { // prova si x és igual a y
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  
