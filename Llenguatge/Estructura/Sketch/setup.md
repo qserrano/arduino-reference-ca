@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| setup() | | Estructura | Sketch |
+---
+títol: "setup()"
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Sketch"
+---
 
 # setup()
 
@@ -26,4 +28,4 @@ void loop() {
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)
+LLENGUATGE [Estructura](../../Estructura.md)

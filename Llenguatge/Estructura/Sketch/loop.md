@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| loop() | | Estructura | Sketch |
+---
+títol: "loop()"
+descripció: ""
+categoria: "Estructura"
+subcategoria: "Sketch"
+---
 
 # loop()
 
@@ -36,4 +38,4 @@ void loop() {
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)
+LLENGUATGE [Estructura](../../Estructura.md)
