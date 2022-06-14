@@ -36,4 +36,4 @@ Els elements del codi Arduino (C++).
 
 ## Vegeu també
 
-*  [README](../../../README.md)
+*  [README](../README.md)
