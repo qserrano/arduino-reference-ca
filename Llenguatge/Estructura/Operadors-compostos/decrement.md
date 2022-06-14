@@ -1,3 +1,9 @@
+---
+títol: "--"
+descripció: "decrement"
+categoria: "Estructura"
+subcategoria: "Operadors compostos"
+---
 
 | títol | descripció   | categoria  | subcategoria        |
 | :---: | :----------: | :--------: | :-----------------: |
@@ -11,12 +17,12 @@ Disminueix el valor d'una variable en 1.
 
 ### Sintaxi
 
-*  `x--; // disminueix x en un i retorna el valor antic de x`  
-*  `--x; // disminueix x en un i retorna el nou valor de x`
+`x--; // disminueix x en un i retorna el valor antic de x`  
+`--x; // disminueix x en un i retorna el nou valor de x`  
 
 ### Paràmetres
 
-*  `x`: variable. Tipus de dades permesos: int, long (possiblement sense signar).
+`x`: variable. Tipus de dades permesos: int, long (possiblement sense signar).
 
 ### Devolucions
 
@@ -32,4 +38,4 @@ y = x--; // x conté 0, però y encara conté 1
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

@@ -1,3 +1,9 @@
+---
+títol: "%="
+descripció: "mòdul compost"
+categoria: "Estructura"
+subcategoria: "Operadors compostos"
+---
 
 | títol | descripció   | categoria  | subcategoria        |
 | :---: | :----------: | :--------: | :-----------------: |
@@ -11,12 +17,12 @@ Aquesta és una abreviatura convenient per calcular la resta quan es divideix un
 
 ### Sintaxi
 
-*  `x %= divisor; // equivalent a l'expressió x = x % divisor;`
+`x %= divisor; // equivalent a l'expressió x = x % divisor;`
 
 ### Paràmetres
 
-*  `x`: variable. Tipus de dades permesos: int.  
-*  `divisor`: variable o constant diferent de zero. Tipus de dades permesos: int.
+`x`: variable. Tipus de dades permesos: int.  
+`divisor`: variable o constant diferent de zero. Tipus de dades permesos: int.
 
 ### Exemple de codi
 
@@ -33,5 +39,5 @@ Si el primer operand és negatiu, el resultat és negatiu (o zero). Per tant, el
 
 ### Vegeu també
 
-*  LLENGUATGE [Mòdul](../Operador-aritmetics/modul.md)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Mòdul](../Operador-aritmetics/modul.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

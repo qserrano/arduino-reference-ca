@@ -1,3 +1,9 @@
+---
+títol: "++"
+descripció: "increment"
+categoria: "Estructura"
+subcategoria: "Operadors compostos"
+---
 
 | títol | descripció   | categoria  | subcategoria        |
 | :---: | :----------: | :--------: | :-----------------: |
@@ -11,12 +17,12 @@ Incrementa el valor d'una variable en 1.
 
 ### Sintaxi
 
-*  `x++; // incrementa x en un i retorna el valor antic de x`  
-*  `++x; // incrementa x en un i retorna el nou valor de x`
+`x++; // incrementa x en un i retorna el valor antic de x`  
+`++x; // incrementa x en un i retorna el nou valor de x`
 
 ### Paràmetres
 
-*  `x`: variable. Tipus de dades permesos: int, long (possiblement sense signar).
+`x`: variable. Tipus de dades permesos: int, long (possiblement sense signar).
 
 ### Devolucions
 
@@ -32,4 +38,4 @@ y = x++; // x conté 4, però y encara conté 3
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

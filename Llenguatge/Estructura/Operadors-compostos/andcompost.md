@@ -1,3 +1,9 @@
+---
+títol: "&="
+descripció: "and compost"
+categoria: "Estructura"
+subcategoria: "Operadors compostos"
+---
 
 | títol | descripció   | categoria  | subcategoria        |
 | :---: | :----------: | :--------: | :-----------------: |
@@ -20,12 +26,12 @@ Una revisió de l'operador & Bitwise AND:
 
 ### Sintaxi
 
-*  `x &= y; // equivalent a x = x & y;`
+`x &= y; // equivalent a x = x & y;`
 
 ### Paràmetres
 
-*  `x`: variable. Tipus de dades permesos: char, int, long.  
-*  `y`: variable o constant. Tipus de dades permesos: char, int, long.
+`x`: variable. Tipus de dades permesos: char, int, long.  
+`y`: variable o constant. Tipus de dades permesos: char, int, long.
 
 ### Exemple de codi
 
@@ -81,5 +87,5 @@ myByte &= 0b11111100; // resulta en 0b10101000
 
 ### Vegeu també
 
-*  LLENGUATE [& Bit a bit](../Operadors-bitabit/bitabitand.md)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATE [& Bit a bit](../Operadors-bitabit/bitabitand.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

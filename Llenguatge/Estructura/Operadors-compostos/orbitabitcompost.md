@@ -1,3 +1,9 @@
+---
+títol: "|="
+descripció: "or compost per bits"
+categoria: "Estructura"
+subcategoria: "Operadors compostos"
+---
 
 | títol | descripció   | categoria  | subcategoria        |
 | :---: | :----------: | :--------: | :-----------------: |
@@ -20,12 +26,12 @@ Un repàs de l'OR | operador:
 
 ### Sintaxi
 
-*  `x |= y; // equivalent a x = x | y;`
+`x |= y; // equivalent a x = x | y;`
 
 ### Paràmetres
 
-*  `x`: variable. Tipus de dades permesos: char, int, long.  
-*  `y`: variable o constant. Tipus de dades permesos: char, int, long.
+`x`: variable. Tipus de dades permesos: char, int, long.  
+`y`: variable o constant. Tipus de dades permesos: char, int, long.
 
 ### Exemple de codi
 
@@ -74,5 +80,5 @@ myByte |= 0b00000011 == 0b10101011;
 
 ### Vegeu també
 
-*  LLENGUATGE [| OR bit a bit](../Operadors-bitabit/bitabitor.md)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [| OR bit a bit](../Operadors-bitabit/bitabitor.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  

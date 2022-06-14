@@ -1,3 +1,9 @@
+---
+títol: "+="
+descripció: "suma composta"
+categoria: "Estructura"
+subcategoria: "Operadors compostos"
+---
 
 | títol | descripció   | categoria  | subcategoria        |
 | :---: | :----------: | :--------: | :-----------------: |
@@ -11,12 +17,12 @@ Aquesta és una abreviatura convenient per dur a terme la suma d'una variable am
 
 ### Sintaxi
 
-*  `x += y; // equivalent a l'expressió x = x + y;`
+`x += y; // equivalent a l'expressió x = x + y;`
 
 ### Paràmetres
 
-*  `x`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
-*  `y`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.
+`x`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
+`y`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.
 
 ### Exemple de codi
 
@@ -27,5 +33,5 @@ x += 4; // x ara conté 6
 
 ### Vegeu també
 
-*  LLENGUATGE [Suma](../Operadors-aritmetics/suma.md)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Suma](../Operadors-aritmetics/suma.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  
