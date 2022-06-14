@@ -1,7 +1,9 @@
-
-| títol | descripció | categoria | subcategoria |
-| :---: | :--------: | :-------: | :----------: |
-| - | resta | Estructura | Operadors aritmètics |
+---
+títol: "-"
+descripció: "resta"
+categoria: "Estructura"
+subcategoria: "Operadors aritmètics"
+---
 
 # -
 
@@ -11,13 +13,13 @@ La resta és una de les quatre operacions aritmètiques primàries. L'operador -
 
 ### Sintaxi
 
-*  `difference = operand1 - operand2;`
+`difference = operand1 - operand2;`
 
 ### Paràmetres
 
-*  `difference`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
-*  `operand1`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.  
-*  `operand2`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.
+`difference`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
+`operand1`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.  
+`operand2`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.
 
 ### Exemple de codi
 
@@ -43,4 +45,4 @@ c = a - b; // la variable 'c' només emmagatzema un valor de -1 en oposició a l
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)

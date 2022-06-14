@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| =     | assignació   | Estructura | Operadors aritmètics |
+---
+títol: "="
+descripció: "assignació"
+categoria: "Estructura"
+subcategoria: "Operadors aritmètics"
+---
 
 # =
 
@@ -23,8 +25,8 @@ sensVal = analogRead(0); // emmagatzema la tensió d'entrada (digitalitzada) al 
 
 ### Vegeu també
 
-*  LLENGUATGE [if (estructura de control)](../Control/if.md)  
-*  LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
-*  LLENGUATGE [int](../../Variables/Tipus-dades/int.md)  
-*  LLENGUATGE [long](../../Variables/Tipus-dades/long.md)  
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [if (estructura de control)](../Control/if.md)  
+LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
+LLENGUATGE [int](../../Variables/Tipus-dades/int.md)  
+LLENGUATGE [long](../../Variables/Tipus-dades/long.md)  
+LLENGUATGE [Estructura](../../Estructura.md)

@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| % | mòdul | Estructura | Operadors aritmètics |
+---
+títol: "%"
+descripció: "mòdul"
+categoria: "Estructura"
+subcategoria: "Operadors aritmètics"
+---
 
 # %
 
@@ -11,13 +13,13 @@ L’operador de mòdul calcula la resta quan un nombre enter es divideix per un 
 
 ### Sintaxi
 
-*  `remainder = dividend % divisor;`
+`remainder = dividend % divisor;`
 
 ### Paràmetres
 
-*  `remainder`: variable. Tipus de dades permesos: int, float, double.  
-*  `dividend`: variable o constant. Tipus de dades permesos: int.  
-*  `divisor`: variable o constant diferent de zero. Tipus de dades permesos: int.
+`remainder`: variable. Tipus de dades permesos: int, float, double.  
+`dividend`: variable o constant. Tipus de dades permesos: int.  
+`divisor`: variable o constant diferent de zero. Tipus de dades permesos: int.  
 
 ### Exemple de codi
 
@@ -52,4 +54,4 @@ void loop() {
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)

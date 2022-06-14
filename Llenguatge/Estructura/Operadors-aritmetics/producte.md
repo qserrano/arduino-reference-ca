@@ -1,7 +1,9 @@
-
-| títol | descripció | categoria | subcategoria |
-| :---: | :--------: | :-------: | :----------: |
-| * | producte | Estructura | Operadors aritmètics |
+---
+títol: "*"
+descripció: "producte"
+categoria: "Estructura"
+subcategoria: "Operadors aritmètics"
+---
 
 # *
 
@@ -11,13 +13,13 @@ La multiplicació és una de les quatre operacions aritmètiques primàries. L'o
 
 ### Sintaxi
 
-*  `product = operand1 * operand2;`
+`product = operand1 * operand2;`
 
 ### Paràmetres
 
-*  `product`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
-*  `operand1`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.  
-*  `operand2`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.
+`product`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
+`operand1`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.  
+`operand2`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.  
 
 ### Exemple de codi
 
@@ -43,4 +45,4 @@ c = a * b; // la variable 'c' només emmagatzema un valor de 36 en contraposici�
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)

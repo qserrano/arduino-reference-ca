@@ -1,7 +1,9 @@
-
-| títol | descripció | categoria | subcategoria |
-| :---: | :--------: | :-------: | :----------: |
-| + | suma | Estructura | Operadors aritmètics |
+---
+títol: "+"
+descripció: "suma"
+categoria: "Estructura"
+subcategoria: "Operadors aritmètics"
+---
 
 # +
 
@@ -11,13 +13,13 @@ La suma és una de les quatre operacions aritmètiques primàries. L'operador + 
 
 ### Sintaxi
 
-*  `sum = operand1 + operand2;`
+`sum = operand1 + operand2;`
 
 ### Paràmetres
 
-*  `sum`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
-*  `operand1`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.  
-*  `operand2`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.
+`sum`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
+`operand1`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.  
+`operand2`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.
 
 ### Exemple de codi
 
@@ -43,4 +45,4 @@ c = a + b; // la variable "c" només emmagatzema un valor de 12 en contraposici�
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)

@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| / | divisió | Estructura | Operadors aritmètics |
+---
+títol: "/"
+descripció: "divisió"
+categoria: "Estructura"
+subcategoria: "Operadors aritmètics"
+---
 
 # /
 
@@ -11,13 +13,13 @@ La divisió és una de les quatre operacions aritmètiques primàries. L'operado
 
 ### Sintaxi
 
-*  `result = numerator / denominator;`
+`result = numerator / denominator;`
 
 ### Paràmetres
 
-*  `result`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
-*  `numerator`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.  
-*  `denominator`: variable o constant diferent de zero. Tipus de dades permesos: int, float, double, byte, short, long.
+`result`: variable. Tipus de dades permesos: int, float, double, byte, short, long.  
+`numerator`: variable o constant. Tipus de dades permesos: int, float, double, byte, short, long.  
+`denominator`: variable o constant diferent de zero. Tipus de dades permesos: int, float, double, byte, short, long.
 
 ### Exemple de codi
 
@@ -42,4 +44,4 @@ c = a / b; // la variable 'c' només emmagatzema un valor de 8 a diferència del
 
 ### Vegeu també
 
-*  LLENGUATGE [Estructura](../Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)
