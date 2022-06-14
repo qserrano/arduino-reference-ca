@@ -41,4 +41,4 @@ DDRD = DDRD | 0b11111100;
 
 EXEMPLE [Tutorial BitMath](https://www.arduino.cc/playground/Code/BitMath)  
 LLENGUATGE [OR lògic](../Operadors-booleans/orlogic.md)  
-LLENGUATGE [Estructura](../,,/Estructura.md)  
+LLENGUATGE [Estructura](../../Estructura.md)  
