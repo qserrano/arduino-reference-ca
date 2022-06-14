@@ -1,3 +1,10 @@
+---
+títol: Estructura
+descripció: ""
+categoria: [ "Estructura" ]
+subcategoria: [ "" ]
+---
+
 # Estructura
 
 Els elements del codi Arduino (C++).

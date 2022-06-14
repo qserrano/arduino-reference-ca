@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| break |              | Estructura | Control             |
+---
+títol: break
+descripció: ""
+categoria: [ "Estructura" ]
+subcategoria: [ "Control" ]
+---
 
 
 # break
