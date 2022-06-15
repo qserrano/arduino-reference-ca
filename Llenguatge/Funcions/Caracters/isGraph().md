@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| isGraph() | | Funcions | Caràcters |
+---
+títol: "isGraph()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Caracters"
+---
 
 # isGraph()
 
@@ -11,11 +13,11 @@ Analitza si un caràcter és pot imprimir amb algun contingut (l'espai és impri
 
 ### Syntax
 
-*  `isGraph(thisChar)`
+`isGraph(thisChar)`
 
 ### Parameters
 
-*  `thisChar`: variable. Tipus de dades permesos: char.
+`thisChar`: variable. Tipus de dades permesos: char.
 
 ### Returns
 
@@ -36,8 +38,8 @@ else
 
 ### Vegeu també
 
-*  LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
-*  LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
-*  LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
-*  LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
-*  LLENGUATGE [Funcions](../Funcions.md)    
+LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
+LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
+LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
+LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
+LLENGUATGE [Funcions](../../Funcions.md)    

@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| isLowerCase() | | Funcions | Caràcters |
+---
+títol: "isLowerCase()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Caracters"
+---
 
 # isLowerCase()
 
@@ -11,11 +13,11 @@ Analitza si un caràcter és en minúscula (és a dir, una lletra en minúscula)
 
 ### Sintaxi
 
-*  `isLowerCase(thisChar)`
+`isLowerCase(thisChar)`
 
 ### Paràmetres
 
-*  `thisChar`: variable. Tipus de dades permesos: char.
+`thisChar`: variable. Tipus de dades permesos: char.
 
 ### Devolucions
 
@@ -36,8 +38,8 @@ else
 
 ### Vegeu també
 
-*  LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
-*  LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
-*  LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
-*  LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
-*  LLENGUATGE [Funcions](../Funcions.md)   
+LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
+LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
+LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
+LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
+LLENGUATGE [Funcions](../../Funcions.md)   

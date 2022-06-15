@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| isWhitspace() | | Funcions | Caràcters |
+---
+títol: "isWhitespace()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Caracters"
+---
 
 # isWhitespace()
 
@@ -11,11 +13,11 @@ Analitza si un caràcter és un caràcter espai. Retorna cert si l'argument és 
 
 ### Sintaxi
 
-*  `isWhitspace(thisChar)`
+`isWhitspace(thisChar)`
 
 ### Paràmetres
 
-*  `thisChar`: variable. Tipus de dades permesos: char.
+`thisChar`: variable. Tipus de dades permesos: char.
 
 ### Devolucions
 
@@ -35,8 +37,8 @@ else {
 
 ### Vegeu també
 
-*  LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
-*  LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
-*  LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
-*  LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
-*  LLENGUATGE [Funcions](../Funcions.md)   
+LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
+LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
+LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
+LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
+LLENGUATGE [Funcions](../../Funcions.md)   

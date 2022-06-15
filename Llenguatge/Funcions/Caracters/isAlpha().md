@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| isAlpha() | | Funcions | Caràcters |
+---
+títol: "isAlpha()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Caracters"
+---
 
 # isAlpha()
 
@@ -11,11 +13,11 @@ Analitza si un char és alfa (és una lletra). Retorna vertader si thisChar cont
 
 ### Sintaxi
 
-*  `isAlpha(thisChar)`
+`isAlpha(thisChar)`
 
 ### Paràmetres
 
-*  `thisChar`: variable. Tipus de dades permeses: char.
+`thisChar`: variable. Tipus de dades permeses: char.
 
 ### Devolucions
 
@@ -34,8 +36,8 @@ else {
 
 ### Veure també
 
-*  LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
-*  LLENGUATGE [if](../../Estructura/Operadors-condicionals/if.md) (operadors condicionals)  
-*  LLENGUATGE [while](../../Estructura/Operadors-condicionals/while.md) (operadors condicionals)  
-*  LLENGUATGE [Serial.read()](../Comunicació/Serial/Serial.read().md)  
-*  LLENGUATGE [Funcions](../Funcions.md)  
+LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
+LLENGUATGE [if](../../Estructura/Operadors-condicionals/if.md) (operadors condicionals)  
+LLENGUATGE [while](../../Estructura/Operadors-condicionals/while.md) (operadors condicionals)  
+LLENGUATGE [Serial.read()](../Comunicació/Serial/Serial.read().md)  
+LLENGUATGE [Funcions](../../Funcions.md)  

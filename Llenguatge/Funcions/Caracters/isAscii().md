@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| isAscii() | | Funcions | Caràcters |
+---
+títol: "isAscii()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Caracters"
+---
 
 # isAscii()
 
@@ -11,11 +13,11 @@ Analitza si un char és Ascii. Retorna vertader si thisChar conté un caràcter 
 
 ### Sintaxi
 
-*  `isAscii(thisChar)`
+`isAscii(thisChar)`
 
 ### Paràmetres
 
-*  `thisChar`: variable. Tipus de dades permeses: char.
+`thisChar`: variable. Tipus de dades permeses: char.
 
 ### Devolucions
 
@@ -34,8 +36,8 @@ else {
 
 ### Vegeu també
 
-*  LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
-*  LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
-*  LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
-*  LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
-*  LLENGUATGE [Funcions](../Funcions.md)    
+LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
+LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
+LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
+LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
+LLENGUATGE [Funcions](../../Funcions.md)    

@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| isControl() | | Funcions | Caràcters |
+---
+títol: "isControl()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Caracters"
+---
 
 # isControl()
 
@@ -11,11 +13,11 @@ Analitza si un char és un caràcter de control. Retorna vertader si thisChar é
 
 ### Sintaxi
 
-*  `isControl(thisChar)`
+`isControl(thisChar)`
 
 ### Paràmetres
 
-*  `thisChar`: variable. Tipus de dades permeses: char.
+`thisChar`: variable. Tipus de dades permeses: char.
 
 ### Devolucions
 
@@ -34,8 +36,8 @@ else {
 
 ### Vegeu també
 
-*  LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
-*  LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
-*  LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
-*  LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
-*  LLENGUATGE [Funcions](../Funcions.md)    
+LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
+LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
+LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
+LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
+LLENGUATGE [Funcions](../../Funcions.md)    

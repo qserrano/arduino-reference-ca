@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| isPunct() | | Funcions | Caràcters |
+---
+títol: "isPunct()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Caracters"
+---
 
 # isPunct()
 
@@ -13,11 +15,11 @@ Retorna true si thisChar és una puntuació.
 
 ### Sintaxi
 
-*   `isPunct(thisChar)`
+`isPunct(thisChar)`
 
 ### Paràmetres
 
-*  `thisChar`: variable. Tipus de dades permesos: char.
+`thisChar`: variable. Tipus de dades permesos: char.
 
 ### Devolucions
 
@@ -38,8 +40,8 @@ else
 
 ### Vegeu també
 
-*  LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
-*  LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
-*  LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
-*  LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
-*  LLENGUATGE [Funcions](../Funcions.md)   
+LLENGUATGE [char](../../Variables/Tipus-dades/char.md)  
+LLENGUATGE [if (operadors condicionals)](../../Estructura/Control/if.md)  
+LLENGUATGE [while (operodars condicionals)](../../Estructura/Control/while.md)  
+LLENGUATGE [Serial.read()](../Comunicacio/Serial/read().md)  
+LLENGUATGE [Funcions](../Funcions.md)   
