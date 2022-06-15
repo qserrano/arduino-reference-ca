@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| lowByte() | | Funcions | Bits i bytes |
+---
+títol: "lowByte()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Bits i bytes"
+---
 
 # lowByte()
 
@@ -11,12 +13,12 @@ Extreu el byte d'ordre inferior (l'extrem dret) d'una variable (per exemple, una
 
 ### Sintaxi
 
-*  `lowByte (x)`
+`lowByte (x)`
 
 
 ### Paràmetres
 
-*  `x`: un valor de qualsevol tipus
+`x`: un valor de qualsevol tipus
 
 
 ### Devolucions
@@ -26,5 +28,5 @@ Tipus de dades: byte.
 
 ### Vegeu també
 
-*  LLENGUATGE [word](../../Variables/Tipus-dades/word.md)  
-*  LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [word](../../Variables/Tipus-dades/word.md)  
+LLENGUATGE [Funcions](../../Funcions.md)

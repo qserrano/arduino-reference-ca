@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| bit() | | Funcions | Bits i bytes |
+---
+títol: "bit()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Bits i bytes"
+---
 
 # bit()
 
@@ -12,12 +14,12 @@ Calcula el valor del bit especificat (el bit 0 és 1, el bit 1 és 2, el bit 2 �
 
 ### Sintaxi
 
-*  `bit(n)`
+`bit(n)`
 
 
 ### Paràmetres
 
-*  `n`: el bit el valor del qual cal calcular
+`n`: el bit el valor del qual cal calcular
 
 
 ### Devolucions
@@ -26,4 +28,4 @@ El valor del bit.
 
 ### Vegeu també
 
-*  LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

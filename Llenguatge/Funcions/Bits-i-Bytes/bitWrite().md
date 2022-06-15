@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| bitWrite() | | Funcions | Bits i bytes |
+---
+títol: "bitWrite()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Bits i bytes"
+---
 
 # bitWrite()
 
@@ -12,14 +14,14 @@ Escriu un bit d'una variable numèrica.
 
 ### Sintaxi
 
-*  `bitWrite(x, n, b)`
+`bitWrite(x, n, b)`
 
 
 ### Paràmetres
 
-*  `x`: la variable numèrica a la qual cal escriure.  
-*  `n`: quin bit del nombre cal escriure, començant per 0 per al bit menys significatiu (l'extrem dret).  
-*  `b`: el valor a escriure al bit (0 o 1).
+`x`: la variable numèrica a la qual cal escriure.  
+`n`: quin bit del nombre cal escriure, començant per 0 per al bit menys significatiu (l'extrem dret).  
+`b`: el valor a escriure al bit (0 o 1).
 
 
 ### Devolucions
@@ -48,4 +50,4 @@ void loop() {}
 
 ### Vegeu també
 
-*  LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

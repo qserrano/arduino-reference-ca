@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| bitClear() | | Funcions | Bits i bytes |
+---
+títol: "bitClear()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Bits i bytes"
+---
 
 # bitClear()
 
@@ -12,13 +14,13 @@ Esborra (escriu un 0 a) un bit d'una variable numèrica.
 
 ### Sintaxi
 
-*  `bitClear(x, n)`
+`bitClear(x, n)`
 
 
 ### Paràmetres
 
-*  `x`: la variable numèrica el bit de la qual s'ha d'esborrar.  
-*  `n`: quin bit cal esborrar, començant a 0 per al bit menys significatiu (l'extrem dret).
+`x`: la variable numèrica el bit de la qual s'ha d'esborrar.  
+`n`: quin bit cal esborrar, començant a 0 per al bit menys significatiu (l'extrem dret)
 
 
 ### Devolucions
@@ -52,4 +54,4 @@ void loop() {}
 
 ### Vegeu també
 
-*  LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

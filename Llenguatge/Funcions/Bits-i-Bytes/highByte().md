@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| highByte() | | Funcions | Bits i bytes |
+---
+títol: "highByte()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Bits i bytes"
+---
 
 # highByte()
 
@@ -13,12 +15,12 @@ Extreu el byte d'ordre superior (l'extrem esquerre) d'un tipus de dades word
 
 ### Sintaxi
 
-*   `highByte (x)`
+`highByte (x)`
 
 
 ### Paràmetres
 
-*  `x`: un valor de qualsevol tipus
+`x`: un valor de qualsevol tipus
 
 
 ### Devolucions
@@ -28,5 +30,5 @@ Tipus de dades: byte.
 
 ### Vegeu també
 
-*  LLENGUATGE [word](../../Variables/Tipus-dades/word.md)  
-*  LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [word](../../Variables/Tipus-dades/word.md)  
+LLENGUATGE [Funcions](../../Funcions.md)
