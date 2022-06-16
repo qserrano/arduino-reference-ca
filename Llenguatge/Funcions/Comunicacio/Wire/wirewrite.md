@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Wire.write() | | Funcions | Comunicació |
+---
+títol: "Wire.write()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Wire"
+---
 
 # write()
 
@@ -11,16 +14,16 @@ Aquesta funció escriu dades d'un dispositiu perifèric en resposta a una sol·l
 
 ### Sintaxi
 
-* `Wire.write(valor)`
-* `Wire.write(cadena)` 
-* `Wire.write(dades, longitud)`
+`Wire.write(valor)`  
+`Wire.write(cadena)`   
+`Wire.write(dades, longitud)`  
 
 ### Paràmetres
 
-* `valor`: un valor per enviar com a únic byte.
-* `cadena`: una cadena per enviar com una sèrie de bytes.
-* `dades`: una matriu de dades per enviar com a bytes.
-* `longitud`: el nombre de bytes a transmetre.
+`valor`: un valor per enviar com a únic byte.  
+`cadena`: una cadena per enviar com una sèrie de bytes.  
+`dades`: una matriu de dades per enviar com a bytes.  
+`longitud`: el nombre de bytes a transmetre.  
 
 ### Devolucions
 
@@ -55,6 +58,6 @@ void loop() {
 ```
 ### Vegeu també
 
-* LLENGUATGE [Wire](../wire.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Wire](../wire.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)
 

@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Stream.read() | | Funcions | Comunicació |
+---
+títol: "Stream.read()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Stream"
+---
 
 # Stream.read()
 
@@ -13,11 +16,11 @@ Aquesta funció forma part de la classe Stream i pot ser cridada per qualsevol c
 
 ### Sintaxi
 
-* `stream.read()`
+`stream.read()`
 
 ### Paràmetres
 
-* `stream`: una instància d'una classe que hereta de Stream.
+`stream`: una instància d'una classe que hereta de Stream.
 
 ### Devolucions
 
@@ -25,5 +28,5 @@ El primer byte de dades entrants disponible (o -1 si no hi ha dades disponibles)
 
 ### Vegeu també
 
-*  LLENGUATGE [Stream](../Stream.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Stream](../Stream.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

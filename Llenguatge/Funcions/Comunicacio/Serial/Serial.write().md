@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Serial.write() | | Funcions | Comunicació |
+---
+títol: "Serial.write()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funció: "Serial"
+---
 
 # Serial.write()
 
@@ -11,17 +14,17 @@ Escriu dades binàries en el port serie. Aquestes dades s'envien com un byte o s
 
 ### Sintaxi
 
-*  `Serial.write(val)`  
-*  `Serial.write(str)`  
-*  `Serial.write(buf, len)`  
+`Serial.write(val)`  
+`Serial.write(str)`  
+`Serial.write(buf, len)`  
 
 ### Paràmetres
 
-*  `Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Serial.  
-*  `val`: un valor per a enviar com un sol byte.  
-*  `str`: una cadena per a enviar com una sèrie de bytes.  
-*  `buf`: una matriu per a enviar com una sèrie de bytes.  
-*  `len`: el nombre de bytes que s'enviaran des de la matriu.   
+`Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Serial.  
+`val`: un valor per a enviar com un sol byte.  
+`str`: una cadena per a enviar com una sèrie de bytes.  
+`buf`: una matriu per a enviar com una sèrie de bytes.  
+`len`: el nombre de bytes que s'enviaran des de la matriu.   
 
 ### Devolucions
 
@@ -47,5 +50,5 @@ A partir d'Arduino IDE 1.0, la transmissió en sèrie és asíncrona. Si hi ha s
 
 ### Vegeu també
 
-*  LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

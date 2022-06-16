@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Wire.getWireTimeoutFlag() | | Funcions | Comunicació |
+---
+títol: "Wire.getWireTimeoutFlag()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Wire"
+---
 
 # getWireTimeoutFlag()
 
@@ -13,11 +16,11 @@ Aquest indicador s'estableix quan es produeix un temps d'espera i s'esborra quan
 
 ### Sintaxi
 
-* `Wire.getWireTimeoutFlag()`
+`Wire.getWireTimeoutFlag()`
 
 ### Paràmetres
 
-* Cap.
+Cap.
 
 ### Devolucions
 
@@ -29,5 +32,5 @@ Aquesta funció no estava disponible a la versió original de la biblioteca Wire
 
 ### Vegeu també
 
-* LLENGUATGE [Wire](../wire.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Wire](../wire.md)  
+LLENGUATGE [Funcions](../../Funcions.md)

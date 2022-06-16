@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| SPI.end() | | Funcions | Comunicació |
+---
+títol: "SPI.end()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "SPI"
+---
 
 # SPI.end()
 
@@ -11,11 +14,11 @@ Desactiva el bus SPI (deixant els modes de pin sense canvis).
 
 ### Sintaxi
 
-* `SPI.end()`
+`SPI.end()`
 
 ### Paràmetres
 
-* Cap.
+Cap.
 
 ### Devolucions
 
@@ -23,5 +26,5 @@ Cap.
 
 ### Vegeu també
 
-*  LLENGUATGE [SPI](../spi.md)
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [SPI](../spi.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

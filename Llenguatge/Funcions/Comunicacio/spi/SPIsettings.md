@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| SPIsettings | | Funcions | Comunicació |
+---
+títol: "SPIsettings"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "SPI"
+---
 
 # SPISettings
 
@@ -15,14 +18,14 @@ Si algun dels vostres paràmetres és variable, podeu crear un objecte SPISettin
 
 ### Sintaxi
 
-* `SPI.beginTransaction(SPISettings(14000000, MSBFIRST, SPI_MODE0))` **Nota**: millor si els 3 paràmetres són constants
-* `SPISettings mySetting(speedMaximum, dataOrder, dataMode)` **Nota**: Millor quan qualsevol paràmetre és una variable
+`SPI.beginTransaction(SPISettings(14000000, MSBFIRST, SPI_MODE0))` **Nota**: millor si els 3 paràmetres són constants  
+`SPISettings mySetting(speedMaximum, dataOrder, dataMode)` **Nota**: Millor quan qualsevol paràmetre és una variable  
 
 ### Paràmetres
 
-* `speedMaximum`: la velocitat màxima de comunicació. Per a un xip SPI de fins a 20 MHz, utilitzeu 20000000.
-* `DataOrder`: MSBFIRST o LSBFIRST
-* `DataMode`: SPI_MODE0, SPI_MODE1, SPI_MODE2 o SPI_MODE3
+`speedMaximum`: la velocitat màxima de comunicació. Per a un xip SPI de fins a 20 MHz, utilitzeu 20000000.  
+`DataOrder`: MSBFIRST o LSBFIRST  
+`DataMode`: SPI_MODE0, SPI_MODE1, SPI_MODE2 o SPI_MODE3  
 
 ### Devolucions
 
@@ -30,5 +33,5 @@ Cap.
 
 ### Vegeu també
 
-*  LLENGUATGE [SPI](../spi.md)
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [SPI](../spi.md)
+LLENGUATGE [Funcions](../../../Funcions.md)

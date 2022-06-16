@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Wire.setWireTimeout() | | Funcions | Comunicació |
+---
+títol: "Wire.setWireTimeout()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Wire"
+---
 
 # setWireTimeout()
 
@@ -13,13 +16,13 @@ Estableix el temps d'espera per a les transmissions per cable en mode mestre.
 
 ### Sintaxi
 
-* `Wire.setWireTimeout(timeout, reset_on_timeout)`
-* `Wire.setWireTimeout()`
+`Wire.setWireTimeout(timeout, reset_on_timeout)`  
+`Wire.setWireTimeout()`  
 
 ### Paràmetres
 
-* `timeout`: temps d'espera en microsegons, si és zero, la comprovació del temps d'espera està desactivada
-* `reset_on_timeout`: si és cert, el maquinari Wire es reiniciarà automàticament en el temps d'espera
+`timeout`: temps d'espera en microsegons, si és zero, la comprovació del temps d'espera està desactivada  
+`reset_on_timeout`: si és cert, el maquinari Wire es reiniciarà automàticament en el temps d'espera  
 
 Quan es crida aquesta funció sense paràmetres, es configura un temps d'espera predeterminat que hauria de ser suficient per evitar bloquejos en una configuració típica d'un sol mestre.
 
@@ -92,5 +95,5 @@ Si necessiteu que es desactivi el temps d'espera, es recomana que el desactiveu 
 
 ### Vegeu també
 
-* LLENGUATGE [Wire](../wire.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Wire](../wire.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

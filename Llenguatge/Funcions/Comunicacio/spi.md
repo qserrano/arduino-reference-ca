@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| SPI | | Funcions | Comunicació |
+---
+títol: "SPI"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+---
 
 # SPI
 

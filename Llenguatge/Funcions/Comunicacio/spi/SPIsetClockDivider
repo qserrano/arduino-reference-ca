@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| SPI.setClockDivider() | | Funcions | Comunicació |
+---
+títol: "SPI.setClockDivider()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "SPI"
+---
 
 # SPI.setClockDivider()
 
@@ -15,20 +18,21 @@ Per a Arduino Due: a Due, el rellotge del sistema es pot dividir per valors d'1 
 
 ### Sintaxi
 
-* `SPI.setClockDivider(divisor)`
+`SPI.setClockDivider(divisor)`
 
 ### Paràmetres
 
-* `divisor` (només plaques AVR):
-    * SPI_CLOCK_DIV2
-    * SPI_CLOCK_DIV4
-    * SPI_CLOCK_DIV8
-    * SPI_CLOCK_DIV16
-    * SPI_CLOCK_DIV32
-    * SPI_CLOCK_DIV64
-    * SPI_CLOCK_DIV128
+`divisor` (només plaques AVR):
+  * SPI_CLOCK_DIV2
+  * SPI_CLOCK_DIV4
+  * SPI_CLOCK_DIV8
+  * SPI_CLOCK_DIV16
+  * SPI_CLOCK_DIV32
+  * SPI_CLOCK_DIV64
+  * SPI_CLOCK_DIV128
 
-* `chipSelectPin`: dispositiu perifèric CS pin (només Arduino Due) `divisor`: un nombre de l'1 al 255 (només Arduino Due)
+`chipSelectPin`: dispositiu perifèric CS pin (només Arduino Due)  
+`divisor`: un nombre de l'1 al 255 (només Arduino Due)
 
 ### Devolucions
 
@@ -36,5 +40,5 @@ Cap.
 
 ### Vegeu també
 
-*  LLENGUATGE [SPI](../spi.md)
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [SPI](../spi.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

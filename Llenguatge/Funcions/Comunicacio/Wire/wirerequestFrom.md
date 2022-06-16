@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Wire.requestFrom() | | Funcions | Comunicació |
+---
+títol: "Wire.requestFrom()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Wire"
+---
 
 # requestFrom()
 
@@ -11,14 +14,14 @@ El dispositiu controlador utilitza aquesta funció per a sol·licitar bytes d'un
 
 ### Sintaxi
 
-* `Wire.requestFrom(direcció, quantitat)`
-* `Wire.requestFrom(direcció, quantitat, parada)`
+`Wire.requestFrom(direcció, quantitat)`  
+`Wire.requestFrom(direcció, quantitat, parada)`  
 
 ### Paràmetres
 
-* `adreça`: la direcció esclava de 7 bits del dispositiu per a sol·licitar bytes.
-* `quantitat`: el nombre de bytes a sol·licitar.
-* `parada`: vertader o fals. true enviarà un missatge de parada després de la sol·licitud, alliberant el bus. False enviarà contínuament un reinici després de la sol·licitud, mantenint la connexió activa.
+`adreça`: la direcció esclava de 7 bits del dispositiu per a sol·licitar bytes.  
+`quantitat`: el nombre de bytes a sol·licitar.  
+`parada`: vertader o fals. true enviarà un missatge de parada després de la sol·licitud, alliberant el bus. False enviarà contínuament un reinici després de la sol·licitud, mantenint la connexió activa.  
 
 ### Devolucions
 
@@ -26,6 +29,6 @@ El dispositiu controlador utilitza aquesta funció per a sol·licitar bytes d'un
 
 ### Vegeu també
 
-* LLENGUATGE [Wire](../wire.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Wire](../wire.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)
 

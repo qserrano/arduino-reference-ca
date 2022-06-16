@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Wire.available() | | Funcions | Comunicació |
+---
+títol: "Wire.available()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Wire"
+---
 
 # available()
 
@@ -11,11 +14,11 @@ Aquesta funció retorna el nombre de bytes disponibles per a la recuperació amb
 
 ### Sintaxi
 
-* `Wire.available()`
+`Wire.available()`
 
 ### Paràmetres
 
-* Cap.
+Cap.
 
 ### Devolucions
 
@@ -23,5 +26,5 @@ El nombre de bytes disponibles per a la lectura.
 
 ### Vegeu també
 
-* LLENGUATGE [Wire](../wire.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Wire](../wire.md)  
+LLENGUATGE [Funcions](../../Funcions.md)  

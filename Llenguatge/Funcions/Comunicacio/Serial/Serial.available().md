@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Serial.available() | | Funcions | Comunicació |
+---
+títol: "Serial.available()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Serial"
+---
 
 # Serial.available()
 
@@ -13,11 +16,11 @@ Obté la quantitat de bytes (caràcters) disponibles per a llegir des d'un port 
 
 ### Sintaxi
 
-*  `Serial.available()`
+`Serial.available()`
 
 ### Paràmetres
 
-*  `Serial` objecte de port serie. Consulteu la llista de ports serie disponibles per a cada placa en la pàgina principal Serial.
+`Serial` objecte de port serie. Consulteu la llista de ports serie disponibles per a cada placa en la pàgina principal Serial.
 
 ### Devolucions
 
@@ -51,5 +54,5 @@ void loop() {
 
 ### Vegeu també
 
-* LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)  

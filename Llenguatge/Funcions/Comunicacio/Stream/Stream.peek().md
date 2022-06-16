@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Stream.peek() | | Funcions | Comunicació |
+---
+títol: "Stream.peek()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Stream"
+---
 
 # Stream.peek()
 
@@ -13,11 +16,11 @@ Aquesta funció forma part de la classe Stream i pot ser cridada per qualsevol c
 
 ### Sintaxi
 
-* `stream.peek()`
+`stream.peek()`
 
 ### Paràmetres
 
-* `stream`: una instància d'una classe que hereta de Stream.
+`stream`: una instància d'una classe que hereta de Stream.
 
 ### Devolucions
 
@@ -25,5 +28,5 @@ El següent byte (o caràcter), o -1 si no n'hi ha cap disponible.
 
 ### Vegeu també
 
-*  LLENGUATGE [Stream](../Stream.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Stream](../Stream.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

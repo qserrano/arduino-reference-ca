@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| SPI.setDataMode() | | Funcions | Comunicació |
+---
+títol: "SPI.setDataMode"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "SPI"
+---
 
 # SPI.setDataMode()
 
@@ -15,16 +18,17 @@ Consulteu l'article de la Viquipèdia sobre SPI per obtenir més informació.
 
 ### Sintaxi
 
-* `SPI.setDataMode (mode)`
+`SPI.setDataMode (mode)`
 
 ### Paràmetres
 
-* `mode`:
-     * SPI_MODE0
-     * SPI_MODE1
-     * SPI_MODE2
-     * SPI_MODE3
-* `chipSelectPin`: pin CS del dispositiu perifèric (només Arduino Due)
+`mode`:
+* SPI_MODE0
+* SPI_MODE1
+* SPI_MODE2
+* SPI_MODE3
+
+`chipSelectPin`: pin CS del dispositiu perifèric (només Arduino Due)
 
 ### Devolucions
 
@@ -32,5 +36,5 @@ Cap.
 
 ### Vegeu també
 
-*  LLENGUATGE [SPI](../spi.md)
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [SPI](../spi.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

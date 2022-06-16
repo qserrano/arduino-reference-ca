@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Stream.available() | | Funcions | Comunicació |
+---
+títol: "Stream.available()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Stream"
+---
 
 # Stream.available()
 
@@ -13,11 +16,11 @@ Aquesta funció forma part de la classe Stream i pot ser cridada per qualsevol c
 
 ### Sintaxi
 
-* `stream.available()`
+`stream.available()`  
 
 ### Paràmetres
 
-* `stream`: una instància d'una classe que hereta de Stream.
+`stream`: una instància d'una classe que hereta de Stream.  
 
 ### Devolucions
 
@@ -25,5 +28,5 @@ El nombre de bytes disponibles per llegir. Tipus de dades: int.
 
 ### Vegeu també
 
-*  LLENGUATGE [Stream](../Stream.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Stream](../Stream.md)  
+LLENGUATGE [Funcions](../../Funcions.md)  

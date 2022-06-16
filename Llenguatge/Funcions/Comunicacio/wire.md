@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Wire | | Funcions | Comunicació |
+---
+títol: "Wire"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+---
 
 
 # Wire

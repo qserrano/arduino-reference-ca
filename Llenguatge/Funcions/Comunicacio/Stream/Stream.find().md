@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Stream.find() | | Funcions | Comunicació |
+---
+títol: "Stream.find()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Stream"
+---
 
 # Stream.find()
 
@@ -13,14 +16,14 @@ Aquesta funció forma part de la classe Stream i pot ser cridada per qualsevol c
 
 ### Sintaxi
 
-* `stream.find (target)`
-* `stream.find (target, length)`
+`stream.find (target)`  
+`stream.find (target, length)`  
 
 ### Paràmetres
 
-* `stream`: una instància d'una classe que hereta de Stream.
-* `target`: la cadena a cercar. Tipus de dades permesos: char.
-* `length`: longitud de l'objectiu. Tipus de dades permesos: size_t.
+`stream`: una instància d'una classe que hereta de Stream.  
+`target`: la cadena a cercar. Tipus de dades permesos: char.  
+`length`: longitud de l'objectiu. Tipus de dades permesos: size_t.  
 
 ### Devolucions
 
@@ -28,5 +31,5 @@ Tipus de dades: bool.
 
 ### Vegeu també
 
-*  LLENGUATGE [Stream](../Stream.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Stream](../Stream.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

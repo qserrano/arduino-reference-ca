@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Wire.clearWireTimeoutFlag() | | Funcions | Comunicació |
+---
+títol: "Wire.clearWireTimeoutFlag()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Wire"
+---
 
 # clearWireTimeoutFlag()
 
@@ -13,11 +16,11 @@ Esborra la marca del temps d'espera.
 
 ### Sintaxi
 
-* `Wire.clearTimeout()`
+`Wire.clearTimeout()`  
 
 ### Paràmetres
 
-* Cap.
+Cap.
 
 ### Devolucions
 
@@ -29,5 +32,5 @@ Aquesta funció no estava disponible a la versió original de la biblioteca Wire
 
 ### Vegeu també
 
-* LLENGUATGE [Wire](../wire.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Wire](../wire.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Serial.end() | | Funcions | Comunicació |
+---
+títol: "Serial.end()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funció: "Serial"
+---
 
 # Serial.end()
 
@@ -11,11 +14,11 @@ Deshabilita la comunicació en sèrie, la qual cosa permet que els pins RX i TX 
 
 ### Sintaxi
 
-*  `Serial.end()`
+`Serial.end()`
 
 ### Paràmetres
 
-*  `Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal [Serial](../Serial.md).
+`Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal [Serial](../Serial.md).
 
 ### Devolucions
 
@@ -23,5 +26,5 @@ Res
 
 ### Vegeu també
 
-*  LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

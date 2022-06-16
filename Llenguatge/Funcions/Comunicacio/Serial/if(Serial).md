@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| if(Serial) | | Funcions | Comunicació |
+---
+títol: "if(Serial)"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Serial"
+---
 
 # if(Serial)
 
@@ -15,11 +18,11 @@ Això es va introduir en Arduino IDE 1.0.1.
 
 ### Sintaxi
 
-*  `if(serial)`
+`if(serial)`
 
 ### Paràmetres
 
-*  Cap
+Cap
 
 ### Devolucions
 
@@ -45,5 +48,5 @@ void loop()
 
 ### Vegeu també
 
-*  LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)  

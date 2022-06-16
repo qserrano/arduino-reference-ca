@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Serial.findUntil() | | Funcions | Comunicació |
+---
+títol: "Serial.findUntil()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funció: "Serial"
+---
 
 # Serial.findUntil()
 
@@ -15,13 +18,13 @@ La funció retorna vertader si es troba la cadena de destí, fals si s'esgota el
 
 ### Sintaxi
 
-*  `Serial.findUntil(target, terminal)`
+`Serial.findUntil(target, terminal)`
 
 ### Paràmetres
 
-*  `Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal [Serial](../Serial.md).  
-*  `target`: la cadena a buscar. Tipus de dades permeses: char.  
-*  `terminal`: la cadena terminal en la cerca. Tipus de dades permeses: char.  
+`Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal [Serial](../Serial.md).  
+`target`: la cadena a buscar. Tipus de dades permeses: char.  
+`terminal`: la cadena terminal en la cerca. Tipus de dades permeses: char.  
 
 ### Devolucions
 
@@ -29,5 +32,5 @@ Tipus de dada: booleà.
 
 ### Vegeu també
 
-*  LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Stream.flush() | | Funcions | Comunicació |
+---
+títol: "Stream.flush()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Stream"
+---
 
 # Stream.flush()
 
@@ -13,11 +16,11 @@ Aquesta funció forma part de la classe Stream i pot ser cridada per qualsevol c
 
 ### Sintaxi
 
-* `stream.flush()`
+`stream.flush()`  
 
 ### Paràmetres
 
-* `stream`: una instància d'una classe que hereta de Stream.
+`stream`: una instància d'una classe que hereta de Stream.  
 
 ### Devolucions
 
@@ -25,5 +28,5 @@ Res
 
 ### Vegeu també
 
-*  LLENGUATGE [Stream](../Stream.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Stream](../Stream.md)  
+LLENGUATGE [Funcions](../../Funcions.md)  

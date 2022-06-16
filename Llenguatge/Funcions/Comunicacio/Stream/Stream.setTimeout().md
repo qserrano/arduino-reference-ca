@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Stream.setTimeout() | | Funcions | Comunicació |
+---
+títol: "Stream.setTimeout()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Stream"
+---
 
 # Stream.setTimeout()
 
@@ -11,12 +14,12 @@
 
 ### Sintaxi
 
-* `stream.setTimeout(time)`
+`stream.setTimeout(time)`
 
 ### Paràmetres
 
-* `stream`: una instància d'una classe que hereta de Stream.
-* `time`: temps d'espera en mil·lisegons. Tipus de dades permesos: long.
+`stream`: una instància d'una classe que hereta de Stream.  
+`time`: temps d'espera en mil·lisegons. Tipus de dades permesos: long.  
 
 ### Devolucions
 
@@ -36,5 +39,5 @@ Funcions de flux que utilitzen el valor de temps d'espera establert mitjançant 
 
 ### Vegeu també
 
-*  LLENGUATGE [Stream](../Stream.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Stream](../Stream.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)  

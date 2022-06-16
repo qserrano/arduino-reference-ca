@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Serial.begin() | | Funcions | Comunicació |
+---
+títol: "Serial.begin()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Serial"
+---
 
 # Serial.begin()
 
@@ -13,14 +16,14 @@ Un segon argument opcional configura els bits de dades, paritat i parada. El val
 
 ### Sintaxi
 
-*  `Serial.begin(speed)`
-*  `Serial.begin(speed, config)`
+`Serial.begin(speed)`  
+`Serial.begin(speed, config)`  
 
 ### Paràmetres
 
-*  `Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Serial.  
-*  `speed`: en bits per segon (bauds). Tipus de dades permeses: llargs.  
-*  `config`: estableix dades, paritat i bits de parada. Els valors vàlids són:
+`Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Serial.  
+`speed`: en bits per segon (bauds). Tipus de dades permeses: llargs.  
+`config`: estableix dades, paritat i bits de parada. Els valors vàlids són:  
 
   * SERIAL_5N1  
   * SERIAL_6N1  
@@ -86,5 +89,5 @@ L'únic valor de configuració compatible amb Serial1 en les plaques Arduino Nan
 
 ### Vegeu també
 
-*  LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)  

@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Serial.setTimeout() | | Funcions | Comunicació |
+---
+títol: "Serial.setTimeout()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funció: "Serial"
+---
 
 # Serial.setTimeout()
 
@@ -13,12 +16,12 @@
 
 ### Sintaxi
 
-*  `Serial.setTimeout(time)`
+`Serial.setTimeout(time)`
 
 ### Paràmetres
 
-*  `Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Sèrie.  
-*  `time`: duració del temps d'espera en mil·lisegons. Tipus de dades permeses: long.  
+`Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Sèrie.  
+`time`: duració del temps d'espera en mil·lisegons. Tipus de dades permeses: long.  
 
 ### Devolucions
 
@@ -40,5 +43,5 @@ Funcions serial que usen el valor de temps d'espera establit a través de `Seria
 
 ### Vegeu també
 
-*  LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../Funcions.md)

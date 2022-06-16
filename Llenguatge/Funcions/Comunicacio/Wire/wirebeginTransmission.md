@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Wire.beginTransmission() | | Funcions | Comunicació |
+---
+títol: "Wire.beginTransmission()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Wire"
+---
 
 # beginTransmission()
 
@@ -11,11 +14,11 @@ Aquesta funció inicia una transmissió al dispositiu perifèric I2C amb l'adre�
 
 ### Sintaxi
 
-* `Wire.beginTransmission (adreça)`
+`Wire.beginTransmission (adreça)`  
 
 ### Paràmetres
 
-* `Adreça`: l'adreça de 7 bits del dispositiu per transmetre.
+`Adreça`: l'adreça de 7 bits del dispositiu per transmetre.  
 
 ### Devolucions
 
@@ -23,6 +26,6 @@ Cap.
 
 ### Vegeu també
 
-* LLENGUATGE [Wire](../wire.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Wire](../wire.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)
 

@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Serial | | Funcions | Comunicació |
+---
+títol: "Serial"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+---
 
 # Serial
 

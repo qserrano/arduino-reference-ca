@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Wire.begin() | | Funcions | Comunicació |
+---
+títol: "Wire.begin()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Wire"
+---
 
 # begin()
 
@@ -11,12 +14,12 @@ Aquesta funció inicialitza la biblioteca Wire i s'uneix al bus I2C com a contro
 
 ### Sintaxi
 
-* `Wire.begin()`
-* `Wire.begin (adreça)`
+`Wire.begin()`  
+`Wire.begin (adreça)`  
 
 ### Paràmetres
 
-* `adreça`: l'adreça de l'esclau de 7 bits (opcional); si no s'especifica, unir-se al bus com a dispositiu controlador.
+ `adreça`: l'adreça de l'esclau de 7 bits (opcional); si no s'especifica, unir-se al bus com a dispositiu controlador.  
 
 ### Devolucions
 
@@ -24,6 +27,6 @@ Cap.
 
 ### Vegeu també
 
-* LLENGUATGE [Wire](../wire.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Wire](../wire.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)
 

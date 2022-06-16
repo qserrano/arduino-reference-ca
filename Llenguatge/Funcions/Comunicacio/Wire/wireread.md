@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Wire.read() | | Funcions | Comunicació |
+---
+títol: "Wire.read()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Wire"
+---
 
 # read()
 
@@ -11,11 +14,11 @@ Aquesta funció llegeix un byte que s'ha transmès des d'un dispositiu perifèri
 
 ### Sintaxi
 
-* `Wire.read()`
+`Wire.read()`
 
 ### Paràmetres
 
-* Cap.
+Cap.
 
 ### Devolucions
 
@@ -44,5 +47,5 @@ void loop() {
 
 ### Vegeu també
 
-* LLENGUATGE [Wire](../wire.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Wire](../wire.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

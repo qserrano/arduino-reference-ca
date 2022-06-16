@@ -1,3 +1,10 @@
+---
+títol: "serialEvent()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funció: "Serial"
+---
 
 | títol | descripció   | categoria  | subcategoria        |
 | :---: | :----------: | :--------: | :-----------------: |
@@ -35,7 +42,7 @@ void serialEvent3() {
 
 ### Paràmetres
 
-*  `declaracions`: qualsevol declaració vàlida
+`declaracions`: qualsevol declaració vàlida
 
 ### Devolucions
 
@@ -51,13 +58,13 @@ Res
 
 ##### Vegeu també
 
-*  EXEMPLE [ReadASCIIString](https://www.arduino.cc/en/Tutorial/ReadASCIIString) (en anglés)  
-*  EXEMPLE [ASCII Table](https://www.arduino.cc/en/Tutorial/ASCIITable) (en anglés)  
-*  EXEMPLE [Dimmer](https://www.arduino.cc/en/Tutorial/Dimmer) (en anglés)  
-*  EXEMPLE [Graph](https://www.arduino.cc/en/Tutorial/Graph) (en anglés)  
-*  EXEMPLE [Physical Pixel](https://www.arduino.cc/en/Tutorial/PhysicalPixel) (en anglés)  
-*  EXEMPLE [Serial Call Response](https://www.arduino.cc/en/Tutorial/SerialCallResponse) (en anglés)  
-*  EXEMPLE [Serial Call Response ASCII](https://www.arduino.cc/en/Tutorial/SerialCallResponseASCII) (en anglés)  
+EXEMPLE [ReadASCIIString](https://www.arduino.cc/en/Tutorial/ReadASCIIString) (en anglés)  
+EXEMPLE [ASCII Table](https://www.arduino.cc/en/Tutorial/ASCIITable) (en anglés)  
+EXEMPLE [Dimmer](https://www.arduino.cc/en/Tutorial/Dimmer) (en anglés)  
+EXEMPLE [Graph](https://www.arduino.cc/en/Tutorial/Graph) (en anglés)  
+EXEMPLE [Physical Pixel](https://www.arduino.cc/en/Tutorial/PhysicalPixel) (en anglés)  
+EXEMPLE [Serial Call Response](https://www.arduino.cc/en/Tutorial/SerialCallResponse) (en anglés)  
+EXEMPLE [Serial Call Response ASCII](https://www.arduino.cc/en/Tutorial/SerialCallResponseASCII) (en anglés)  
 
-*  LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

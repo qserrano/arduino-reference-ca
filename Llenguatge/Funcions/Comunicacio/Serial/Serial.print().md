@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Serial.print() | | Funcions | Comunicació |
+---
+títol: "Serial.print()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funció: "Serial"
+---
 
 # Serial.print()
 
@@ -32,13 +35,13 @@ Per a enviar dades sense conversió a la seua representació com a caràcters, u
 
 ### Sintaxi
 
-*  `Serial.print(val)`  
-*  `Serial.print(val, format)`  
+`Serial.print(val)`  
+`Serial.print(val, format)`  
 
 ### Paràmetres
 
-*  `Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Sèrie.  
-*  `val`: el valor a imprimir. Tipus de dades permeses: qualsevol tipus de dades.
+`Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Sèrie.  
+`val`: el valor a imprimir. Tipus de dades permeses: qualsevol tipus de dades.
 
 ### Devolucions
 
@@ -99,6 +102,6 @@ Per a obtindre informació sobre l'asincronia de `Serial.print()`, consulte la s
 
 ### Vegeu també
 
-*  LLENGUATGE [Serial.write()](./Serial.write().md)  
-*  LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial.write()](./Serial.write().md)  
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

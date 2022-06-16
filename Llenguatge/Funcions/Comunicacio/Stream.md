@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Stream | | Funcions | Comunicació |
+---
+títol: "Stream"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+---
 
 # Stream
 

@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Serial.readBytesUntil() | | Funcions | Comunicació |
+---
+títol: "Serial.readBytesUntil()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funció: "Serial"
+---
 
 # Serial.readBytesUntil()
 
@@ -15,14 +18,14 @@
 
 ### Sintaxi
 
-*  `Serial.readBytesUntil(character, buffer, length)`
+`Serial.readBytesUntil(character, buffer, length)`
 
 ### Paràmetres
 
-*  `Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Sèrie.  
-*  `character`: el caràcter a buscar. Tipus de dades permeses: char.  
-*  `buffer`: el búfer per a emmagatzemar els bytes. Tipus de dades permeses: matriu de char o byte.  
-*  `length`: el nombre de bytes a llegir. Tipus de dades permeses: int.  
+`Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Sèrie.  
+`character`: el caràcter a buscar. Tipus de dades permeses: char.  
+`buffer`: el búfer per a emmagatzemar els bytes. Tipus de dades permeses: matriu de char o byte.  
+`length`: el nombre de bytes a llegir. Tipus de dades permeses: int.  
 
 ### Devolucions
 
@@ -34,6 +37,6 @@ El caràcter terminador es descarta del búfer en sèrie, llevat que el nombre d
 
 ### Vegeu també
 
-*  LLENGUATGE [Serial.setTimeout()](./Serial.setTimeout().md)  
-*  LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial.setTimeout()](./Serial.setTimeout().md)  
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Stream.readBytesUntil() | | Funcions | Comunicació |
+---
+títol: "Stream.readBytesUntil()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Stream"
+---
 
 # Stream.readBytesUntil()
 
@@ -15,14 +18,14 @@ Aquesta funció forma part de la classe Stream i pot ser cridada per qualsevol c
 
 ### Sintaxi
 
-* `stream.readBytesUntil(character, buffer, length)`
+`stream.readBytesUntil(character, buffer, length)`
 
 ### Paràmetres
 
-* `stream`: una instància d'una classe que hereta de Stream.
-* `character`: el caràcter a buscar. Tipus de dades permesos: char.
-* `buffer`: la memòria intermèdia on emmagatzemar els bytes. Tipus de dades permesos: array of char o bytes.
-* `length`: el nombre de bytes a llegir. Tipus de dades permesos: int.
+`stream`: una instància d'una classe que hereta de Stream.  
+`character`: el caràcter a buscar. Tipus de dades permesos: char.  
+`buffer`: la memòria intermèdia on emmagatzemar els bytes. Tipus de dades permesos: array of char o bytes.  
+`length`: el nombre de bytes a llegir. Tipus de dades permesos: int.  
 
 ### Devolucions
 
@@ -34,5 +37,5 @@ El caràcter de terminació es descarta del flux.
 
 ### Vegeu també
 
-*  LLENGUATGE [Stream](../Stream.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Stream](../Stream.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

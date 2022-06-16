@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| SPI.transfer() | | Funcions | Comunicació |
+---
+títol: "SPI.transfer()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "SPI"
+---
 
 # SPI.transfer()
 
@@ -11,15 +14,15 @@ La transferència SPI es basa en un enviament i una recepció simultània: les d
 
 ### Sintaxi
 
-* `rebutVal = SPI.transfer(val)`
-* `rebutVal16 = SPI.transfer16(val16)`
-* `SPI.transfer (búfer, mida)`
+`rebutVal = SPI.transfer(val)`  
+`rebutVal16 = SPI.transfer16(val16)`  
+`SPI.transfer (búfer, mida)`  
 
 ### Paràmetres
 
-* `val`: el byte a enviar a través del bus
-* `val16`: la variable de dos bytes per enviar a través del bus
-* `buffer`: la matriu de dades a transferir
+`val`: el byte a enviar a través del bus  
+`val16`: la variable de dos bytes per enviar a través del bus  
+`buffer`: la matriu de dades a transferir  
 
 ### Devolucions
 
@@ -27,5 +30,5 @@ Les dades rebudes.
 
 ### Vegeu també
 
-*  LLENGUATGE [SPI](../spi.md)
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [SPI](../spi.md)  
+LLENGUATGE [Funcions](../../Funcions.md)  

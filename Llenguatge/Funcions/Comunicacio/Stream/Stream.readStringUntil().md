@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Stream.readStringUntil() | | Funcions | Comunicació |
+---
+títol: "Stream.readStringUntil()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Stream"
+---
 
 # Stream.readStringUntil()
 
@@ -13,12 +16,12 @@ Aquesta funció forma part de la classe Stream i pot ser cridada per qualsevol c
 
 ### Sintaxi
 
-* `stream.readStringUntil(terminator)`
+`stream.readStringUntil(terminator)`
 
 ### Paràmetres
 
-* `stream`: una instància d'una classe que hereta de Stream.
-* `terminator`: el caràcter a cercar. Tipus de dades permesos: char.
+`stream`: una instància d'una classe que hereta de Stream.  
+`terminator`: el caràcter a cercar. Tipus de dades permesos: char.  
 
 ### Devolucions
 
@@ -30,5 +33,5 @@ El caràcter de terminació es descarta del flux.
 
 ### Vegeu també
 
-*  LLENGUATGE [Stream](../Stream.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Stream](../Stream.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

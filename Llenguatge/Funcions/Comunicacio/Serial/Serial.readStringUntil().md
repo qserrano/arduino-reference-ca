@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Serial.readStringUntil() | | Funcions | Comunicació |
+---
+títol: "Serial.readStringUntil()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funció: "Serial"
+---
 
 # Serial.readStringUntil()
 
@@ -13,12 +16,12 @@
 
 ### Sintaxi
 
-*  `Serial.readStringUntil(terminator)`
+`Serial.readStringUntil(terminator)`
 
 ### Paràmetres
 
-*  `Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Serial.  
-*  `terminator`: el caràcter a buscar. Tipus de dades permeses: char.  
+`Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal Serial.  
+`terminator`: el caràcter a buscar. Tipus de dades permeses: char.  
 
 ### Devolucions
 
@@ -30,6 +33,6 @@ El caràcter terminador es descarta del búfer serial.
 
 ### Vegeu també
 
-*  LLENGUATGE [Serial.setTimeout()](./Serial.setTimeout().md)  
-*  LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial.setTimeout()](./Serial.setTimeout().md)  
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../Funcions.md)

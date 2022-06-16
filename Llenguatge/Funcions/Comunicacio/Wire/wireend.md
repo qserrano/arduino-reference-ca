@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Wire.end() | | Funcions | Comunicació |
+---
+títol: "Wire.end()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Wire"
+---
 
 # end()
 
@@ -13,11 +16,11 @@ Deshabilita la biblioteca Wire, revertint l'efecte de `Wire.begin()`. Per a torn
 
 ### Sintaxi
 
-* `Wire.end()`
+`Wire.end()`
 
 ### Paràmetres
 
-* Cap.
+Cap.
 
 ### Devolucions
 
@@ -25,6 +28,6 @@ Cap.
 
 ### Vegeu també
 
-* LLENGUATGE [Wire](../wire.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Wire](../wire.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)
 

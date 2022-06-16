@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| SPI.usingInterrupt() | | Funcions | Comunicació |
+---
+títol: "SPI.usingInterrupt()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "SPI"
+---
 
 # SPI.usingInterrupt()
 
@@ -11,11 +14,11 @@ Si el vostre programa realitzarà transaccions SPI dins d'una interrupció, truq
 
 ### Sintaxi
 
-* `SPI.usingInterrupt(interruptNumber)`
+`SPI.usingInterrupt(interruptNumber)`  
 
 ### Paràmetres
 
-* `interruptNumber`: el número d'interrupció associat.
+`interruptNumber`: el número d'interrupció associat.  
 
 ### Devolucions
 
@@ -23,5 +26,5 @@ Cap.
 
 ### Vegeu també
 
-*  LLENGUATGE [SPI](../spi.md)
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [SPI](../spi.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

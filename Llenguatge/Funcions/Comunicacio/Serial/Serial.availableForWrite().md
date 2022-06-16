@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Serial.availableForWrite() | | Funcions | Comunicació |
+---
+títol: "Serial.availableForWrite()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Serial"
+---
 
 # Serial.availableForWrite()
 
@@ -11,11 +14,11 @@ Obté la quantitat de bytes (caràcters) disponibles per a escriure en el búfer
 
 ### Sintaxi
 
-*  `Serial.availableForWrite()`
+`Serial.availableForWrite()`
 
 ### Paràmetres
 
-*  `Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal [Serial](../Serial.md).
+`Serial`: objecte de port serie. Consulte la llista de ports serie disponibles per a cada placa en la pàgina principal [Serial](../Serial.md).
 
 ### Devolucions
 
@@ -23,5 +26,5 @@ El nombre de bytes disponibles per a escriure.
 
 ### Vegeu també
 
-*  LLENGUATGE [Serial](../Serial.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Serial](../Serial.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)  

@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Stream.findUntil() | | Funcions | Comunicació |
+---
+títol: "Stream.findUntil()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "Stream"
+---
 
 # Stream.findUntil()
 
@@ -15,13 +18,13 @@ Aquesta funció forma part de la classe Stream i pot ser cridada per qualsevol c
 
 ### Sintaxi
 
-* `stream.findUntil(target, terminal)`
+`stream.findUntil(target, terminal)`  
 
 ### Paràmetres
 
-* `stream`: una instància d'una classe que hereta de Stream.
-* `target`: la cadena a cercar. Tipus de dades permesos: char.
-* `terminal`: la cadena de terminal a la cerca. Tipus de dades permesos: char.
+`stream`: una instància d'una classe que hereta de Stream.  
+`target`: la cadena a cercar. Tipus de dades permesos: char.  
+`terminal`: la cadena de terminal a la cerca. Tipus de dades permesos: char.  
 
 ### Devolucions
 
@@ -29,5 +32,5 @@ Tipus de dades: bool.
 
 ### Vegeu també
 
-*  LLENGUATGE [Stream](../Stream.md)  
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Stream](../Stream.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

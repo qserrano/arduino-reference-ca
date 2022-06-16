@@ -1,7 +1,10 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| SPI.setBitOrder() | | Funcions | Comunicació |
+---
+títol: "SPI.setBitOrder()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Comunicacio"
+funcio: "SPI"
+---
 
 # SPI.setBitOrder()
 
@@ -13,11 +16,11 @@ Estableix l'ordre dels bits desplaçats cap a fora i cap al bus SPI, ja sigui LS
 
 ### Sintaxi
 
-* `SPI.setBitOrder(ordre)`
+`SPI.setBitOrder(ordre)`
 
 ### Paràmetres
 
-* `ordre`: LSBFIRST o MSBFIRST
+`ordre`: LSBFIRST o MSBFIRST
 
 ### Devolucions
 
@@ -25,5 +28,5 @@ Cap.
 
 ### Vegeu també
 
-*  LLENGUATGE [SPI](../spi.md)
-*  LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [SPI](../spi.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)
