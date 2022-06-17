@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| abs() | | Funcions | Matemàtiques |
+---
+títol: "abs()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Matematiques"
+---
 
 # abs()
 
@@ -11,11 +13,11 @@ Calcula el valor absolut d'un número.
 
 ### Sintaxi
 
-* `abs(x)`
+`abs(x)`
 
 ### Paràmetres
 
-* `x`: el número
+`x`: el número
 
 ### Devolucions
 
@@ -62,4 +64,4 @@ a++;  // mantenir altres funcions matemàtiques fora de la funció
 ```
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)
