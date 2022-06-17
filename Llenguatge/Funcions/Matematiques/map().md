@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| map() | | Funcions | Matemàtiques |
+---
+títol: "map()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Matematiques"
+---
 
 # map()
 
@@ -25,15 +27,15 @@ La funció map() usa matemàtiques senceres, per la qual cosa no generarà fracc
 
 ### Sintaxi
 
-* `map(value, fromLow, fromHigh, toLow, toHigh)`
+`map(value, fromLow, fromHigh, toLow, toHigh)`
 
 ### Paràmetres
 
-* `value`: el número a mapear.  
-* `fromLow`: el límit inferior del rang actual del valor.  
-* `fromHigh`: el límit superior del rang actual del valor.  
-* `toLow`: el límit inferior del rang objectiu del valor.  
-* `toHigh`: el límit superior del rang objectiu del valor.
+`value`: el número a mapear.  
+`fromLow`: el límit inferior del rang actual del valor.  
+`fromHigh`: el límit superior del rang actual del valor.  
+`toLow`: el límit inferior del rang objectiu del valor.  
+`toHigh`: el límit superior del rang objectiu del valor.  
 
 ### Devolucions
 
@@ -72,4 +74,4 @@ implementar els càlculs manualment en el seu codi vosté mateix.
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

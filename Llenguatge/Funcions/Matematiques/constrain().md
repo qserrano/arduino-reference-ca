@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| constrain() | | Funcions | Matemàtiques |
+---
+títol: "constrain()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Matematiques"
+---
 
 # constrain()
 
@@ -11,13 +13,13 @@ Restringeix un número perquè estiga dins d'un rang.
 
 ### Sintaxi
 
-* `constrain (x, a, b)`
+`constrain (x, a, b)`
 
 ### Paràmetres
 
-* `x`: el número a restringir. Tipus de dades permeses: tots els tipus de dades.  
-* `a`: l'extrem inferior del rang. Tipus de dades permeses: tots els tipus de dades.  
-* `b`: l'extrem superior del rang. Tipus de dades permeses: tots els tipus de dades.
+`x`: el número a restringir. Tipus de dades permeses: tots els tipus de dades.  
+`a`: l'extrem inferior del rang. Tipus de dades permeses: tots els tipus de dades.  
+`b`: l'extrem superior del rang. Tipus de dades permeses: tots els tipus de dades.
 
 ### Devolucions
 
@@ -49,4 +51,4 @@ int constrainedInput = constrain(input, minimumValue, maximumValue);
 ```
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

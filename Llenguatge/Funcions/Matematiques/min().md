@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| min() | | Funcions | Matemàtiques |
+---
+títol: "min()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Matematiques"
+---
 
 # min()
 
@@ -11,12 +13,12 @@ Calcula el mínim de dos números.
 
 ### Sintaxi
 
-* `min(x, y)`
+`min(x, y)`
 
 ### Paràmetres
 
-* `x`: el primer número. Tipus de dades permeses: qualsevol tipus de dades.  
-* `y`: el segon número. Tipus de dades permeses: qualsevol tipus de dades.
+`x`: el primer número. Tipus de dades permeses: qualsevol tipus de dades.  
+`y`: el segon número. Tipus de dades permeses: qualsevol tipus de dades.
 
 ### Devolucions
 
@@ -46,4 +48,4 @@ a++;            // fora de la funció
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

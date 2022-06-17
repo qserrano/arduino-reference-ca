@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| pow() | | Funcions | Matemàtiques |
+---
+títol: "pow()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Matematiques"
+---
 
 # pow()
 
@@ -11,12 +13,12 @@ Calcula el valor d'un número elevat a una potència. pow() es pot usar per a el
 
 ### Sintaxi
 
-* `pow(base, exponent)`
+`pow(base, exponent)`
 
 ### Paràmetres
 
-* `base`: el número. Tipus de dades permeses: float.  
-* `exponent`: la potència a la qual s'eleva la base. Tipus de dades permeses: float.
+`base`: el número. Tipus de dades permeses: float.  
+`exponent`: la potència a la qual s'eleva la base. Tipus de dades permeses: float.
 
 ### Devolucions
 
@@ -32,6 +34,6 @@ Consulte l'sketch (fscale) per a veure un exemple més complex de l'ús de pow()
 
 ### Veure també
 
-* LLENGUATGE [float](../../Variables/Tipus-dades/float.md)  
-* LLENGUATGE [double](../../Variables/Tipus-dades/double.md)  
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [float](../../Variables/Tipus-dades/float.md)  
+LLENGUATGE [double](../../Variables/Tipus-dades/double.md)  
+LLENGUATGE [Funcions](../Funcions.md)

@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| max() | | Funcions | Matemàtiques |
+---
+títol: "max()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Matematiques"
+---
 
 # max()
 
@@ -11,12 +13,12 @@ Calcula el màxim de dos números.
 
 ### Sintaxi
 
-* `max(x, y)`
+`max(x, y)`
 
 ### Paràmetres
 
-* `x`: el primer número. Tipus de dades permeses: qualsevol tipus de dades.  
-* `y`: el segon número. Tipus de dades permeses: qualsevol tipus de dades.
+`x`: el primer número. Tipus de dades permeses: qualsevol tipus de dades.  
+`y`: el segon número. Tipus de dades permeses: qualsevol tipus de dades.  
 
 ### Devolucions
 
@@ -47,4 +49,4 @@ a--;  // mantingueu altres funcions fora de max()
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)  

@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| sq() | | Funcions | Matemàtiques |
+---
+títol: "sq()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Matematiques"
+---
 
 # sq()
 
@@ -11,11 +13,11 @@ Calcula el quadrat d'un número: el número multiplicat per si mateix.
 
 ### Sintaxi
 
-* `sq(x)`
+`sq(x)`
 
 ### Paràmetres
 
-* `x`: el número. Tipus de dades permeses: qualsevol tipus de dades.
+`x`: el número. Tipus de dades permeses: qualsevol tipus de dades.
 
 ### Devolucions
 
@@ -40,4 +42,4 @@ int inputSquared = sq(input);
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)
