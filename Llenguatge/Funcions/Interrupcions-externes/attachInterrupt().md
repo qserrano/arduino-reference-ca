@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| attachInterrupt() | | Funcions | Interrupcions externes |
+---
+títol: "attachInterrupt()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Interrupcions externes"
+---
 
 # attachInterrupt()
 
@@ -48,16 +50,16 @@ Per a obtindre més informació sobre les interrupcions, consulte les [notes de 
 
 ### Sintaxi
 
-* `attachInterrupt(digitalPinToInterrupt(pin), ISR, mode)` (recomanat)  
-* `attachInterrupt(interrupt, ISR, mode)` (no recomanat)  
-* `attachInterrupt(pin, ISR, mode)` (No recomanat. A més, aquesta sintaxi només funciona amb Arduino SAMD Boards, Uno WiFi Rev2, Due, and 101.)
+`attachInterrupt(digitalPinToInterrupt(pin), ISR, mode)` (recomanat)  
+`attachInterrupt(interrupt, ISR, mode)` (no recomanat)  
+`attachInterrupt(pin, ISR, mode)` (No recomanat. A més, aquesta sintaxi només funciona amb Arduino SAMD Boards, Uno WiFi Rev2, Due, and 101.)
 
 ### Paràmetres
 
-* `interrupt` el número de la interrupció. Tipus de dades permeses: int.  
-* `pin` el número de pin d'Arduino.  
-* `ISR` l'ISR a cridar quan ocorre la interrupció; aquesta funció no ha de prendre paràmetres i no retornar res. Aquesta funció a vegades es denomina rutina de servei d'interrupció.  
-* `mode` defineix quan s'ha de disparar la interrupció. Quatre constants estan predefinides com a valors vàlids.
+`interrupt` el número de la interrupció. Tipus de dades permeses: int.  
+`pin` el número de pin d'Arduino.  
+`ISR` l'ISR a cridar quan ocorre la interrupció; aquesta funció no ha de prendre paràmetres i no retornar res. Aquesta funció a vegades es denomina rutina de servei d'interrupció.  
+`mode` defineix quan s'ha de disparar la interrupció. Quatre constants estan predefinides com a valors vàlids.
   - **LOW** per a activar la interrupció sempre que el pin estiga baix,
   - **CHANGE** per a activar la interrupció cada vegada que el pin canvie de valor
   - **RISING** per a disparar quan el pin va de baix a alt,
@@ -113,4 +115,4 @@ Per a les plaques Un WiFiRev.2, Due, Zero, MKR Family i 101, el número d'interr
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)
