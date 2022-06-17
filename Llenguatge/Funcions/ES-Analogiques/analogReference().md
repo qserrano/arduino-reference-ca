@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| analogReference() | | Funcions | ES Analógiques |
+---
+títol: "analogReference()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Analogiques"
+---
 
 # analogReference()
 
@@ -41,11 +43,11 @@ Configura el voltatge de referència utilitzat per a l'entrada analògica (és a
 
 ### Sintaxi
 
-* `analogReference(type)`
+`analogReference(type)`
 
 ### Paràmetres
 
-* `type`: quin tipus de referència usar (veure llista d'opcions en la descripció).
+`type`: quin tipus de referència usar (veure llista d'opcions en la descripció).
 
 ### Devolucions
 
@@ -66,5 +68,5 @@ interna de 32K en el pin AREF. Els dos actuen com un divisor de voltatge, per la
 
 ### Veure també
 
-* EXEMPLE [Descripció dels pins d'entrada analògica (en anglés)](http://arduino.cc/en/Tutorial/AnalogInputPins)  
-* LLENGUATGE [Funcions](../Funcions.md)
+EXEMPLE [Descripció dels pins d'entrada analògica (en anglés)](http://arduino.cc/en/Tutorial/AnalogInputPins)  
+LLENGUATGE [Funcions](../../Funcions.md)

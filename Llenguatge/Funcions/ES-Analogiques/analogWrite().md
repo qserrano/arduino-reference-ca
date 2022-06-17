@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| analogWrite() | | Funcions | ES Analógiques |
+---
+títol: "analogWrite()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Analogiques"
+---
 
 # analogWrite()
 
@@ -36,12 +38,12 @@ La funció analogWrite no té res a veure amb els pins analògics o la funció a
 
 ### Sintaxi
 
-* `analogWrite(pin, value)`
+`analogWrite(pin, value)`
 
 ### Paràmetres
 
-* `pin`: el pin d'Arduino per a escriure. Tipus de dades permeses: int.  
-* `value`: el cicle de treball: entre 0 (sempre apagat) i 255 (sempre encés). Tipus de dades permeses: int.
+`pin`: el pin d'Arduino per a escriure. Tipus de dades permeses: int.  
+`value`: el cicle de treball: entre 0 (sempre apagat) i 255 (sempre encés). Tipus de dades permeses: int.
 
 ### Devolucions
 
@@ -75,7 +77,7 @@ Les eixides PWM generades en els pins 5 i 6 tindran cicles de treball més alts 
 
 ### Veure també
 
-* LLENGUAGE [analogWriteResolution() (en anglés)](https://www.arduino.cc/reference/en/language/functions/zero-due-mkr-family/analogwriteresolution)  
-* DEFINICIÓ [PWM (en anglés)](http://arduino.cc/en/Tutorial/PWM)  
-* EXEMPLE  [ Blink (en anglés)](http://arduino.cc/en/Tutorial/Blink)  
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUAGE [analogWriteResolution() (en anglés)](https://www.arduino.cc/reference/en/language/functions/zero-due-mkr-family/analogwriteresolution)  
+DEFINICIÓ [PWM (en anglés)](http://arduino.cc/en/Tutorial/PWM)  
+EXEMPLE  [ Blink (en anglés)](http://arduino.cc/en/Tutorial/Blink)  
+LLENGUATGE [Funcions](../../Funcions.md)

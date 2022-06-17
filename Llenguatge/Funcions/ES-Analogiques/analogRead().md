@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| analogRead() | | Funcions | ES Analógiques |
+---
+títol: "analogRead()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Analogiques"
+---
 
 # analogRead()
 
@@ -30,11 +32,11 @@ MKR Family boards | 3.3 Volts | A0 to A6 |
 
 ### Sintaxi
 
-* `analogRead (pin)`
+`analogRead (pin)`
 
 ### Paràmetres
 
-* `pin`: el nom del pin d'entrada analògica per a llegir (A0 a A5 en la majoria de les plaques, A0 a A6 en les plaques MKR, A0 a A7 en Mini i Nano, A0 a A15 en Mega).
+`pin`: el nom del pin d'entrada analògica per a llegir (A0 a A5 en la majoria de les plaques, A0 a A6 en les plaques MKR, A0 a A7 en Mini i Nano, A0 a A15 en Mega).
 
 ### Devolucions
 
@@ -67,6 +69,6 @@ Si el pin d'entrada analògica no està connectat a res, el valor retornat per a
 
 ### Veure també
 
-* LLENGUATGE [AnalogReadResolution() (en anglés) ](https://www.arduino.cc/reference/en/language/functions/zero-due-mkr-family/analogreadresolution)  
-* EXEMPLE [Descripció dels pins d'entrada analògica (en anglés)](http://arduino.cc/en/Tutorial/AnalogInputPins)  
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [AnalogReadResolution() (en anglés) ](https://www.arduino.cc/reference/en/language/functions/zero-due-mkr-family/analogreadresolution)  
+EXEMPLE [Descripció dels pins d'entrada analògica (en anglés)](http://arduino.cc/en/Tutorial/AnalogInputPins)  
+LLENGUATGE [Funcions](../../Funcions.md)
