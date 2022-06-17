@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| tone() | | Funcions | ES Avançades |
+---
+títol: "tone()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Avançades"
+---
 
 ## tone()
 
@@ -17,14 +19,14 @@ No és possible generar tons inferiors a 31Hz. Per a obtindre detalls tècnics, 
 
 ### Sintaxi
 
-* `tone(pin, frequency)`  
-* `tone(pin, frequency, duration)`
+`tone(pin, frequency)`  
+`tone(pin, frequency, duration)`  
 
 ### Paràmetres
 
-* `pin`: el pin Arduino en el qual generar el to.  
-* `frequency`: la freqüència del to en hertzs. Tipus de dades permeses: unsigned int  
-* `duration`: la duració del to en mil·lisegons (opcional). Tipus de dades permeses: unsigned long
+`pin`: el pin Arduino en el qual generar el to.  
+`frequency`: la freqüència del to en hertzs. Tipus de dades permeses: unsigned int  
+`duration`: la duració del to en mil·lisegons (opcional). Tipus de dades permeses: unsigned long  
 
 ### Devolucions
 
@@ -36,4 +38,4 @@ Si desitja tocar diferents tons en diversos pins, ha de cridar a `noTone()` en u
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

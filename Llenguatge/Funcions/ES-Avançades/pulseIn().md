@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| pulseIn() | | Funcions | ES Avançades |
+---
+títol: "pulseIn()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Avançades"
+---
 
 # pulseIn()
 
@@ -16,14 +18,14 @@ El temps d'aquesta funció ha sigut determinat empíricament i probablement most
 
 ### Sintaxi
 
-* `pulseIn(pin, value)`  
-* `pulseIn(pin, value, timeout)`
+`pulseIn(pin, value)`  
+`pulseIn(pin, value, timeout)`  
 
 ### Paràmetres
 
-* `pin`: el número del pin Arduino en el qual desitja llegir el pols. Tipus de dades permeses: int.  
-* `value`: tipus de pols a llegir: [HIGH o LOW](../../Variables/Constants/high-low.md). Tipus de dades permeses: int.  
-* `timeout` (opcional): el nombre de microsegons a esperar perquè comence el pols; el valor predeterminat és un segon. Tipus de dades permeses: unsigned long.
+`pin`: el número del pin Arduino en el qual desitja llegir el pols. Tipus de dades permeses: int.  
+`value`: tipus de pols a llegir: [HIGH o LOW](../../Variables/Constants/high-low.md). Tipus de dades permeses: int.  
+`timeout` (opcional): el nombre de microsegons a esperar perquè comence el pols; el valor predeterminat és un segon. Tipus de dades permeses: unsigned long.
 
 ### Devolucions
 
@@ -52,4 +54,4 @@ void loop()
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

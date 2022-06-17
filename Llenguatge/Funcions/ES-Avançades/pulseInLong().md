@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| pulseInLong() | | Funcions | ES Avançades |
+---
+títol: "puseInLong()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Avançades"
+---
 
 # pulseInLong()
 
@@ -15,14 +17,14 @@ El temps d'aquesta funció ha sigut determinat empíricament i probablement most
 
 ### Sintaxi
 
-* `pulseInLong(pin, value)`  
-* `pulseInLong(pin, value, timeout)`
+`pulseInLong(pin, value)`  
+`pulseInLong(pin, value, timeout)`  
 
 ### Paràmetres
 
-* `pin`: el número del pin Arduino en el qual desitja llegir el pols. Tipus de dades permeses: int.  
-* `value`: tipus de pols a llegir: ALT o BAIX. Tipus de dades permeses: int.  
-* `timeout` (opcional): el nombre de microsegons a esperar perquè comence el pols; el valor predeterminat és un segon. Tipus de dades permeses: llarg sense signar.
+`pin`: el número del pin Arduino en el qual desitja llegir el pols. Tipus de dades permeses: int.  
+`value`: tipus de pols a llegir: ALT o BAIX. Tipus de dades permeses: int.  
+`timeout` (opcional): el nombre de microsegons a esperar perquè comence el pols; el valor predeterminat és un segon. Tipus de dades permeses: llarg sense signar.
 
 ### Devolucions
 
@@ -53,4 +55,4 @@ Aquesta funció es basa en `micros()` per tant no es pot utilitzar en el context
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

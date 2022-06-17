@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| noTone() | | Funcions | ES Avançades |
+---
+títol: "noTone()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Avançades"
+---
 
 # noTone()
 
@@ -11,11 +13,11 @@ Deté la generació d'una ona quadrada desencadenada per `tone()`. No té efecte
 
 ### Sintaxi
 
-* `noTone(pin)`
+`noTone(pin)`
 
 ### Paràmetres
 
-* `pin`: el pin d'Arduino en el qual deixar de generar el to
+`pin`: el pin d'Arduino en el qual deixar de generar el to
 
 ### Devolucions
 
@@ -27,4 +29,4 @@ Si desitja tocar diferents tons en diversos pins, ha de cridar a `noTone()` en u
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

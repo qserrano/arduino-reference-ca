@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| shiftOut() | | Funcions | ES Avançades |
+---
+títol: "shiftOut()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Avançades"
+---
 
 # shiftOut()
 
@@ -15,14 +17,14 @@ Aquesta és una implementació de programari; consulte també la [biblioteca SPI
 
 ### Sintaxi
 
-* `shiftOut(dataPin, clockPin, bitOrder, value)`
+`shiftOut(dataPin, clockPin, bitOrder, value)`
 
 ### Paràmetres
 
-* `dataPin`: el pin en el qual generar cada bit. Tipus de dades permeses: int.  
-* `clockPin`: el pin per a alternar una vegada que el pin de dades s'haja establit en el valor correcte. Tipus de dades permeses: int.  
-* `bitOrder`: en quin ordre desplaçar els bits; ja siga MSBFIRST o LSBFIRST. (Primer el bit més significatiu o Primer el bit menys significatiu).  
-* `value`: les dades a desplaçar. Tipus de dades permeses: byte.
+`dataPin`: el pin en el qual generar cada bit. Tipus de dades permeses: int.  
+`clockPin`: el pin per a alternar una vegada que el pin de dades s'haja establit en el valor correcte. Tipus de dades permeses: int.  
+`bitOrder`: en quin ordre desplaçar els bits; ja siga MSBFIRST o LSBFIRST. (Primer el bit més significatiu o Primer el bit menys significatiu).  
+`value`: les dades a desplaçar. Tipus de dades permeses: byte.  
 
 ### Devolucions
 
@@ -95,4 +97,4 @@ shiftOut(dataPin, clock, LSBFIRST, (data >> 8));
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

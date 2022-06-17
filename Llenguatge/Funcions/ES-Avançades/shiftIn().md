@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| shiftIn() | | Funcions | ES Avançades |
+---
+títol: "shiftIn()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Avançades"
+---
 
 # shiftIn()
 
@@ -15,13 +17,13 @@ Si està interactuant amb un dispositiu que té un rellotge amb flancs ascendent
 
 ### Sintaxi
 
-* `byte incoming = shiftIn(dataPin, clockPin, bitOrder)`
+`byte incoming = shiftIn(dataPin, clockPin, bitOrder)`
 
 ### Paràmetres
 
-* `dataPin`: el pin en el qual ingressar cada bit. Tipus de dades permeses: int.  
-* `clockPin`: el pin per a alternar per a assenyalar una lectura de dataPin.  
-* `bitOrder`: quin ordre canviar en els bits; ja siga MSBFIRST o LSBFIRST. (Primer el bit més significatiu o Primer el bit menys significatiu).
+`dataPin`: el pin en el qual ingressar cada bit. Tipus de dades permeses: int.  
+`clockPin`: el pin per a alternar per a assenyalar una lectura de dataPin.  
+`bitOrder`: quin ordre canviar en els bits; ja siga MSBFIRST o LSBFIRST. (Primer el bit més significatiu o Primer el bit menys significatiu).  
 
 ### Devolucions
 
@@ -29,4 +31,4 @@ El valor llegit. Tipus de dada: byte.
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)
