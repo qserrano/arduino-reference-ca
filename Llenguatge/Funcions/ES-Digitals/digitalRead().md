@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| digitalRead() | | Funcions | ES Digitals |
+---
+títol: "digitalRead()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Digitals"
+---
 
 # digitalRead()
 
@@ -11,11 +13,11 @@ Llig el valor d'un pin digital especificat, ja siga HIGH o LOW.
 
 ### Sintaxi
 
-* `digitalRead (pin)`
+`digitalRead (pin)`
 
 ### Paràmetres
 
-* `pin`: el número de pin d'Arduino que desitja llegir
+`pin`: el número de pin d'Arduino que desitja llegir
 
 ### Devolucions
 
@@ -47,5 +49,5 @@ Els pins d'entrada analògica es poden usar com a pins digitals, denominats A0, 
 
 ### Veure també
 
-* EXEMPLE link: [Descripció dels pins digitals (en anglés)](http://arduino.cc/en/Tutorial/DigitalPins)  
-* LLENGUATGE [Funcions](../Funcions.md)
+EXEMPLE link: [Descripció dels pins digitals (en anglés)](http://arduino.cc/en/Tutorial/DigitalPins)  
+LLENGUATGE [Funcions](../../Funcions.md)

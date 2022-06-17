@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| digitalWrite() | | Funcions | ES Digitals |
+---
+títol: "digitalWrite()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Digitals"
+---
 
 # digitalWrite()
 
@@ -17,12 +19,12 @@ Si no configura pinMode() en OUTPUT i connecta un LED a un pin, quan cride a dig
 
 ### Sintaxi
 
-* `digitalWrite(pin, value)`
+`digitalWrite(pin, value)`
 
 ### Paràmetres
 
-* `pin`: el número de pin d'Arduino.
-* `value`: HIGH o LOW.
+`pin`: el número de pin d'Arduino.  
+`value`: HIGH o LOW.  
 
 ### Devolucions
 
@@ -52,5 +54,5 @@ Els pins d'entrada analògica es poden usar com a pins digitals, denominats A0, 
 
 ### Veure també
 
-* EXEMPLE [Descripció dels pins digitals (en anglés)](http://arduino.cc/en/Tutorial/DigitalPins)  
-* LLENGUATGE [Funcions](../Funcions.md)
+EXEMPLE [Descripció dels pins digitals (en anglés)](http://arduino.cc/en/Tutorial/DigitalPins)  
+LLENGUATGE [Funcions](../../Funcions.md)

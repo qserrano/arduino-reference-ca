@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| pinMode() | | Funcions | ES Digitals |
+---
+títol: "pinMode()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "ES Digitals"
+---
 
 # pinMode()
 
@@ -12,12 +14,12 @@ A partir d'Arduino 1.0.1, és possible habilitar les resistències pullup intern
 
 ### Sintaxi
 
-* `pinMode(pin, mode)`
+`pinMode(pin, mode)`
 
 ### Paràmetres
 
-* `pin`: el número de pin d'Arduino per a establir el mode  
-* `mode`: INPUT, OUTPUT o INPUT_PULLUP. Consulte la pàgina Pins digitals per a obtindre una descripció més completa de la funcionalitat.
+`pin`: el número de pin d'Arduino per a establir el mode  
+`mode`: INPUT, OUTPUT o INPUT_PULLUP. Consulte la pàgina Pins digitals per a obtindre una descripció més completa de la funcionalitat.  
 
 ### Devolucions
 
@@ -48,5 +50,5 @@ Els pins d'entrada analògica es poden usar com a pins digitals, denominats A0, 
 
 ### Veure també
 
-* EXEMPLE [Descripció dels pins digitals (en anglés)](http://arduino.cc/en/Tutorial/DigitalPins)  
-* LLENGUATGE [Funcions](../Funcions.md)
+EXEMPLE [Descripció dels pins digitals (en anglés)](http://arduino.cc/en/Tutorial/DigitalPins)  
+LLENGUATGE [Funcions](../../Funcions.md)
