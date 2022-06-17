@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| interrupts() | | Funcions | Interrupcions |
+---
+títol: "interrupts()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Interrupcions"
+---
 
 # interrupts()
 
@@ -11,11 +13,11 @@ Torna a activar les interrupcions (després d'haver estat desactivades per `noIn
 
 ### Sintaxi
 
-* `interrupts()`
+`interrupts()`
 
 ### Paràmetres
 
-* Cap
+Cap
 
 ### Devolucions
 
@@ -39,6 +41,6 @@ void loop()
 
 ### Vegeu també
 
-* LLENGUATGE [ attachInterrupts() ](../Interrupcions-externes/attachInterrupt.md)  
-* LLENGUATGE [ detachInterrupts() ](../Interrupcions-externes/dettachInterrupt.md)  
-* LLENGUATGE [Funcions](../Funcions.md)  
+LLENGUATGE [ attachInterrupts() ](../Interrupcions-externes/attachInterrupt.md)  
+LLENGUATGE [ detachInterrupts() ](../Interrupcions-externes/dettachInterrupt.md)  
+LLENGUATGE [Funcions](../../Funcions.md)  

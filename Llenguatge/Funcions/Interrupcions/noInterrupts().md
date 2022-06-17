@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| noInterrupts() | | Funcions | Interrupcions |
+---
+títol: "noInterrupts()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Interrupcions"
+---
 
 # noInterrupts()
 
@@ -11,11 +13,11 @@ Desactiva les interrupcions (pots tornar-les a habilitar amb `interrupcions()`).
 
 ### Sintaxi
 
-* `noInterrupsts()`
+`noInterrupsts()`
 
 ### Paràmetres
 
-* Cap
+Cap
 
 ### Devolucions
 
@@ -36,4 +38,4 @@ void loop() {
 ```
 ### Vegeu també
 
-* LLENGUATGE [Funcions](../Funcions.md)  
+LLENGUATGE [Funcions](../../Funcions.md)  
