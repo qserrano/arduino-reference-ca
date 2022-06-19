@@ -28,4 +28,5 @@ Podeu utilitzar const o #define per crear constants numèriques o de cadena. Per
 
 ## Vegeu també
 
-LLENGUATGE [#define](../../Estructura/#define.md)
+LLENGUATGE [#define](../../Estructura/Sintaxi-adicional/define.md)  
+LLENGUATGE [Variables](../../Variables.md)  

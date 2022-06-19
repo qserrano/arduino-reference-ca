@@ -62,3 +62,5 @@ int randomWalk(int moveSize)
 ```
 
 ## Vegeu també
+
+LLENGUATGE [Variables](../../Variables.md)  

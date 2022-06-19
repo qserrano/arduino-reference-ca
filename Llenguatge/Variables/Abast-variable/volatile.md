@@ -74,4 +74,6 @@ volatile int input_from_interrupt;
 
 ## Vegeu també
 
-LLENGUATGE [attachInterrupt()](../../Funcions/interrupcions-externes/attachInterrupt().md)
+LLENGUATGE [attachInterrupt()](../../Funcions/Interrupcions-externes/attachInterrupt().md)  
+LLENGUATGE [Variables](../../Variables.md)  
+

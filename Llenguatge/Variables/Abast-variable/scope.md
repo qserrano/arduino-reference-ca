@@ -36,3 +36,5 @@ void loop() {
 ```
 
 ## Vegeu també
+
+LLENGUATGE [Variables](../../Variables.md)  
