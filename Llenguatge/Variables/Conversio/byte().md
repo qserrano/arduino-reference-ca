@@ -12,8 +12,7 @@ Converteix un valor al tipus de dades byte.
 
 ## Sintaxi
 
-`byte (x)`
-
+`byte (x)`  
 `(byte)x` (conversió de tipus C)
 
 ## Paràmetres
@@ -27,4 +26,5 @@ Tipus de dades: byte.
 ## Vegeu també
 
 LLENGUATGE [byte](../Tipus-dades/byte.md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)  
+

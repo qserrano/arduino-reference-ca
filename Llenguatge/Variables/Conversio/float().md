@@ -12,8 +12,7 @@ Converteix un valor al tipus de dades flotant.
 
 ## Sintaxi
 
-`float (x) `
-
+`float (x)`  
 `(float)x` (conversió de tipus C)
 
 ## Paràmetres
@@ -30,5 +29,6 @@ Consulteu la referència de float per obtenir més informació sobre la precisi�
 
 ## Vegeu també
 
-LLENGUATGE [float](../Tipus-dades/float.md)
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [float](../Tipus-dades/float.md)  
+LLENGUATGE [Variables](../../Variables.md)  
+

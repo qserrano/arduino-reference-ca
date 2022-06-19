@@ -24,5 +24,6 @@ unsigned long
 
 ## Vegeu també
 
-LLENGUATGE [unsigned long](../Tipus-dades/unsigned-long.md)
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [unsigned long](../Tipus-dades/unsigned-long.md)  
+LLENGUATGE [Variables](../../Variables.md)  
+

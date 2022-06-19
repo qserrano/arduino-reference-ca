@@ -12,8 +12,7 @@ Converteix un valor al tipus de dades int.
 
 ## Sintaxi
 
-`int(x)`
-
+`int(x)`  
 `(int)x` (conversió de tipus C)
 
 ## Paràmetres
@@ -24,10 +23,8 @@ Converteix un valor al tipus de dades int.
 
 Tipus de dades: int.
 
-Vegeu també
-LLENGUATGE int
-
 ## Vegeu també
 
-LLENGUATGE [int](../Tipus-dades/int.md)
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [int](../Tipus-dades/int.md)  
+LLENGUATGE [Variables](../../Variables.md)  
+

@@ -25,4 +25,5 @@ unsigned int
 ## Vegeu també
 
 LLENGUATGE [unsigned int](../Tipus-dades/unsigned-int.md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)  
+
