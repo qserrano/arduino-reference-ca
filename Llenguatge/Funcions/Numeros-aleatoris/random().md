@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| random() | | Funcions | Nùmeros aleatoris |
+---
+títol: "random()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Numeros aleatoris"
+---
 
 # random()
 
@@ -11,13 +13,13 @@ La funció aleatòria genera números pseudoaleatoris.
 
 ### Sintaxi
 
-* `random(max)`  
-* `random(min, max)`
+`random(max)`  
+`random(min, max)`
 
 ### Paràmetres
 
-* `min`: límit inferior del valor aleatori, inclusivament (opcional).  
-* `max`: límit superior del valor aleatori, exclusiu.
+`min`: límit inferior del valor aleatori, inclusivament (opcional).  
+`max`: límit superior del valor aleatori, exclusiu.
 
 ### Devolucions
 
@@ -63,4 +65,4 @@ El paràmetre màxim s'ha de triar segons el tipus de dades de la variable en qu
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| randomSeed() | | Funcions | Nùmeros aleatoris |
+---
+títol: "randomSeed()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Numeros aleatoris"
+---
 
 # randomSeed()
 
@@ -15,11 +17,11 @@ Per contra, ocasionalment pot ser útil utilitzar seqüències pseudoaleatòries
 
 ### Sintaxi
 
-* `randomSeed (seed)`
+`randomSeed (seed)`
 
 ### Paràmetres
 
-* `seed`: nombre per inicialitzar la seqüència pseudoaleatòria. Tipus de dades permesos: unsigned_long.
+`seed`: nombre per inicialitzar la seqüència pseudoaleatòria. Tipus de dades permesos: unsigned_long.
 
 ### Devolucions
 
@@ -48,4 +50,4 @@ void loop()
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)
