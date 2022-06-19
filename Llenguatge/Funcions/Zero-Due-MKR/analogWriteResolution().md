@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| analogWriteResolution() | | Funcions | Zero, DUE, MKR |
+---
+títol: "analogWriteResolution()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "USB"
+---
 
 # analogWriteResolution()
 
@@ -34,11 +36,11 @@ per a explotar la resolució DAC completa de 1024 valors.
 
 ### Sintaxi
 
-* `analogWriteResolution(bits)`
+`analogWriteResolution(bits)`
 
 ### Paràmetres
 
-* `bits`: determina la resolució (en bits) dels valors utilitzats en la funció `analogWrite()`. El valor pot oscil·lar entre 1 i 32.
+`bits`: determina la resolució (en bits) dels valors utilitzats en la funció `analogWrite()`. El valor pot oscil·lar entre 1 i 32.  
 Si tria una resolució superior o inferior a les capacitats de maquinari de la seua placa, el valor utilitzat en `analogWrite()` es truncarà si és massa alt o s'emplenarà amb zeros si és massa baix. Consulte la nota a continuació per a obtindre més detalls.
 
 ### Devolucions
@@ -99,8 +101,8 @@ Si estableix el valor `analogWriteResolution()` en un valor inferior a les capac
 
 ### Veure també
 
-* LLENGUATGE [analogWrite()](../ES-Analogiques/analogWrite().md)  
-* LLENGUATGE [analogRead()](../ES-Analogiques/analogRead().md)  
-* LLENGUATGE [map()](../Matematiques/map().md)  
-* EXEMPLE    [Descripció dels pins d'entrada analògica (en anglés)](http://arduino.cc/en/Tutorial/AnalogInputPins)  
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [analogWrite()](../ES-Analogiques/analogWrite().md)  
+LLENGUATGE [analogRead()](../ES-Analogiques/analogRead().md)  
+LLENGUATGE [map()](../Matematiques/map().md)  
+EXEMPLE    [Descripció dels pins d'entrada analògica (en anglés)](http://arduino.cc/en/Tutorial/AnalogInputPins)  
+LLENGUATGE [Funcions](../../Funcions.md)

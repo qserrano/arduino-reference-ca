@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| analogReadResolution() | | Funcions | Zero, DUE, MKR |
+---
+títol: "analogReadResolution()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Zero, DUE, MKR"
+---
 
 # analogReadResolution()
 
@@ -17,11 +19,11 @@ El Portenta H7 te un ADC de 16 bits, que permetrà valors entre 0 i 65535.
 
 ### Sintaxi
 
-* `analogReadResolution(bits)`
+`analogReadResolution(bits)`
 
 ### Paràmetres
 
-* `bits`: determina la resolució (en bits) del valor retornat per la funció analogRead(). Podeu establir-ho entre 1 i 32. Podeu establir resolucions superiors als 12 o 16 bits admesos, però els valors retornats per analogRead() patiran aproximació. Consulteu la nota a continuació per obtenir més informació.
+`bits`: determina la resolució (en bits) del valor retornat per la funció analogRead(). Podeu establir-ho entre 1 i 32. Podeu establir resolucions superiors als 12 o 16 bits admesos, però els valors retornats per analogRead() patiran aproximació.   Consulteu la nota a continuació per obtenir més informació.
 
 ### Devolucions
 
@@ -78,6 +80,6 @@ L'ús d'una resolució de 16 bits (o qualsevol resolució superior a les capacit
 
 ### Veure també
 
-* EXEMPLE [Descripció dels pins d'entrada analògica (en anglés)](http://arduino.cc/en/Tutorial/AnalogInputPins)  
-* LLENGUAGE [analogRead()](Llenguatge/Funcions/ES-Analogiques/analogRead().md)  
-* LLENGUATGE [Funcions](../Funcions.md)
+EXEMPLE [Descripció dels pins d'entrada analògica (en anglés)](http://arduino.cc/en/Tutorial/AnalogInputPins)  
+LLENGUAGE [analogRead()](Llenguatge/Funcions/ES-Analogiques/analogRead().md)  
+LLENGUATGE [Funcions](../../Funcions.md)
