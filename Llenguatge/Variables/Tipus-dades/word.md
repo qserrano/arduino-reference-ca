@@ -26,4 +26,4 @@ Una paraula pot emmagatzemar un nombre sense signe d'almenys 16 bits (de 0 a 655
 ## Vegeu també
 
 LLENGUATGE [Constants enteres](../Constants/constants-enteres.md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

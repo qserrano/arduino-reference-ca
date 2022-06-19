@@ -22,7 +22,7 @@ Comprova si una cadena acaba o no amb els caràcters d'una altra cadena.
 
 ## Devolucions
 
-true: si myString acaba amb els caràcters de myString2.
+true: si myString acaba amb els caràcters de myString2.  
 fals: en cas contrari.
 
 ## Vegeu també

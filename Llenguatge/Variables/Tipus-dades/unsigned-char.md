@@ -31,4 +31,4 @@ Per a la coherència de l'estil de programació d'Arduino, s'ha de preferir el t
 
 LLENGUATGE [Serial.println](../../Funcions/Comunicacio/Serial/Serial.println().md)  
 LLENGUATGE [byte](./byte.md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

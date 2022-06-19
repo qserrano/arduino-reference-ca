@@ -17,9 +17,9 @@ Copia els caràcters de la cadena a la memòria intermèdia subministrada.
 
 ## Paràmetres
 
-`myString`: una variable de tipus `String`.<br>
-`buf`: el buffer on copiar els caràcters. Tipus de dades permesos: `array of bytes`.<br>
-`len`: la mida del buffer. Tipus de dades permesos: `unsigned int`.
+`myString`: una variable de tipus String.  
+`buf`: el buffer on copiar els caràcters. Tipus de dades permesos: array of bytes.  
+`len`: la mida del buffer. Tipus de dades permesos: unsigned int.
 
 ## Devolucions
 

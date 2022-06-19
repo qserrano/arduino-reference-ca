@@ -16,7 +16,7 @@ Una variable `bool` conté un de dos valors, vertader o fals. (Cada variable `bo
 
 ### Paràmetres
 
-`var`: nom de la variable.
+`var`: nom de la variable.  
 `val`: el valor a assignar a aqueixa variable.
 
 ### Codi d'exemple
@@ -48,4 +48,4 @@ void loop() {
 ### Veure també
 
 LLENGUATGE [constants](../Constants/constants.md)   
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

@@ -17,11 +17,10 @@ Un byte emmagatzema un número sense signe de 8 bits, de 0 a 255.
 
 ## Paràmetres
 
-`var`: nom de la variable.
-
+`var`: nom de la variable.  
 `val`: el valor a assignar a aqueixa variable.
 
 ## Veure també
 
 LLENGUATGE [byte()](../Conversio/byte().md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

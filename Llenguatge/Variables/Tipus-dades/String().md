@@ -41,10 +41,8 @@ us dóna la cadena "1101", que és la representació binària de 13.
 
 ## Paràmetres
 
-`val`: una variable per formatar com a cadena. Tipus de dades permesos: string, char, byte, int, long, unsigned int, unsigned long, float, double.
-
-`base`: (opcional) la base en què formatar un valor integral.
-
+`val`: una variable per formatar com a cadena. Tipus de dades permesos: string, char, byte, int, long, unsigned int, unsigned long, float, double.  
+`base`: (opcional) la base en què formatar un valor integral.  
 `decimalPlaces`: només si val és float o double. Les xifres decimals desitjades.
 
 ## Devolucions
@@ -110,4 +108,4 @@ String stringOne = String(5.698, 3);                  // using a float and the d
 
 ## Veure també
 
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

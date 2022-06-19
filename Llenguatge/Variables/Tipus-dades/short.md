@@ -18,8 +18,7 @@ En tots els Arduinos (basats en ATMega i ARM), un short emmagatzema un valor de 
 
 ## Paràmetres
 
-`var`: nom de la variable.
-
+`var`: nom de la variable.  
 `val`: el valor que assignes a aqueixa variable.
 
 ## Codi d'exemple
@@ -31,4 +30,4 @@ short  = 13
 ## Veure també
 
 LLENGUATGE [Constants enteres](../Constants/constants-enteres.md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

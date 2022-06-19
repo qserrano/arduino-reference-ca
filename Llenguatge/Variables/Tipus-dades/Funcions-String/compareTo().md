@@ -23,7 +23,7 @@ Compara dues cadenes, provant si una ve abans o després de l'altra, o si són i
 ## Devolucions
 
 un nombre negatiu: si myString arriba abans de myString2.
-0: si String és igual a myString2.
+0: si String és igual a myString2.  
 un nombre positiu: si myString ve després de myString2.
 
 ## Vegeu també

@@ -18,8 +18,7 @@ S'emmagatzemen com 32 bits (4 bytes) d'informació.
 
 ## Paràmetres
 
-`var`: nom de la variable.
-
+`var`: nom de la variable.  
 `val`: el valor que assignes a aqueixa variable.
 
 ##Codi d'exemple
@@ -70,4 +69,4 @@ Les matemàtiques de punt flotant també són molt més lentes que les matemàti
 
 ## Veure també
 
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

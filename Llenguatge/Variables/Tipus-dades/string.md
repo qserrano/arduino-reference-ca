@@ -82,4 +82,4 @@ void loop() {
 ## Veure també
 
 LLENGUATGE [PROGMEM](../Utilitats/PROGMEM.md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

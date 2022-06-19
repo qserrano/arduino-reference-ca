@@ -41,4 +41,4 @@ void loop() {
 ## Vegeu també
 
 LLENGUATGE [Constants enteres](../Constants/constants-enteres.md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

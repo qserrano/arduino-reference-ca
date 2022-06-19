@@ -19,8 +19,7 @@ En Arduino Due, els dobles tenen una precisió de 8 bytes (64 bits).
 
 ## Paràmetres
 
-`var`: nom de la variable.
-
+`var`: nom de la variable.  
 `val`: el valor a assignar a aqueixa variable.
 
 ## Notes i Advertiments
@@ -29,4 +28,4 @@ Els usuaris que ampren codi d'altres fonts que inclou variables double poden des
 
 ## Veure també
 
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

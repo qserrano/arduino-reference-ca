@@ -12,4 +12,4 @@ boolean és un àlies de tipus no estàndard per a bool definit per Arduino. Es 
 
 ## Vegeu també
 
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

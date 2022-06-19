@@ -66,4 +66,4 @@ Per què utilitzar variables sense signar?
 ## Vegeu també
 
 LLENGUATGE [Constants enteres](../Constants/constants-enteres.md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

@@ -20,8 +20,7 @@ Veja la pàgina de Constants enteres per a més detalls.
 
 ## Paràmetres
 
-`var`: nom de la variable.
-
+`var`: nom de la variable.  
 `val`: el valor assignat a la variable.
 
 ## Codi d'exemple
@@ -31,4 +30,4 @@ Veja la pàgina de Constants enteres per a més detalls.
 ## Veure també
 
 LLENGUATGE [Constants enteres](../Constants/constants-enteres.md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

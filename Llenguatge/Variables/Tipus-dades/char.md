@@ -20,8 +20,7 @@ La grandària de la mena de dades char és d'almenys 8 bits. Es recomana usar ch
 
 ## Paràmetres
 
-`var`: nom de la variable.
-
+`var`: nom de la variable.  
 `val`: el valor a assignar a aqueixa variable.
 
 ## Codi d'exemple
@@ -35,4 +34,4 @@ char miChar = 65; // tots dos són equivalents
 
 LLENGUATGE [Serial.println](../../Funcions/Comunicacio/Serial/Serial.println().md)  
 LLENGUATGE [char()](../Conversio/char().md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

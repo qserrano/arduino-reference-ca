@@ -22,8 +22,7 @@ L'Arduino s'encarrega de manejar els números negatius per vosté, perquè les o
 
 ## Paràmetres
 
-`var`: nom de la variable.
-
+`var`: nom de la variable.  
 `val`: el valor que assignes a aqueixa variable.
 
 ## Codi d'exemple
@@ -51,4 +50,4 @@ Quan es fa que les variables amb signe excedisquen la seua capacitat màxima o m
 ## Veure també
 
 LLENGUATGE [Constants enteres](../Constants/constants-enteres.md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

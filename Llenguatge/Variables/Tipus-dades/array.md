@@ -65,4 +65,4 @@ Per a veure un programa complet que demostra l'ús d'arranjaments, veja el ([exe
 ### Veure també
 
 LLENGUATGE [PROGMEM](https://www.arduino.cc/reference/en/language/variables/utilities/progmem)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

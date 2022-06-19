@@ -16,10 +16,9 @@ size_t és un tipus de dades capaç de representar la grandària de qualsevol ob
 
 ## Paràmetres
 
-`var`: nom de la variable.
-
+`var`: nom de la variable.  
 `val`: el valor a assignar a aqueixa variable.
 
 ## Veure també
 
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)
