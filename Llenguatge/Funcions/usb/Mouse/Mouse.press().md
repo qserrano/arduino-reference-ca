@@ -1,7 +1,10 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Mouse.press() | Funcions | USB | Mouse |
+---
+títol: "Mouse.press()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "USB"
+funcio: "Mouse"
+---
 
 # Mouse.press()
 
@@ -15,12 +18,12 @@ Abans d'utilitzar `Mouse.press()`, heu d'iniciar la comunicació amb `Mouse.begi
 
 ### Sintaxi
 
-* `Mouse.press()`
-* `Mouse.press(button)`
+`Mouse.press()`  
+`Mouse.press(button)`  
 
 ### Paràmetres
 
-* `botó`: quin botó del ratolí cal prémer. Tipus de dades permesos: char.
+`botó`: quin botó del ratolí cal prémer. Tipus de dades permesos: char.  
   - MOUSE_LEFT (predeterminat)
   - MOUSE_RIGHT
   - MOUSE_MIDDLE
@@ -61,4 +64,4 @@ Quan utilitzeu l'ordre `Mouse.press()`, l'Arduino es fa càrrec del vostre ratol
 
 ### Vegeu també
 
-* LLENGUATGE [Mouse](../Mouse.md)
+LLENGUATGE [Mouse](../Mouse.md)

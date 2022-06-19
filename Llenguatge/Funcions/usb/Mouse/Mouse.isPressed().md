@@ -1,7 +1,10 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Mouse.isPressed() | Funcions | USB | Mouse |
+---
+títol: "Mouse.isPressed()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "USB"
+funcio: "Mouse"
+---
 
 # Mouse.isPressed()
 
@@ -11,13 +14,13 @@ Comprova l'estat actual de tots els botons del ratolí i informa si se'n prem o 
 
 ### Sintaxi
 
-* `Mouse.isPressed();`
-* `Mouse.isPressed(button);`
+`Mouse.isPressed();`  
+`Mouse.isPressed(button);`  
 
 ### Paràmetres
 
-* Quan no es passa cap valor, comprova l'estat del botó esquerre del ratolí.
-* `button`: quin botó del ratolí cal comprovar. Tipus de dades permesos: char.
+Quan no es passa cap valor, comprova l'estat del botó esquerre del ratolí.  
+`button`: quin botó del ratolí cal comprovar. Tipus de dades permesos: char.
   - MOUSE_LEFT (predeterminat)
   - MOUSE_RIGHT
   - MOUSE_MIDDLE
@@ -63,4 +66,4 @@ void loop() {
 
 ### Vegeu també
 
-* LLENGUATGE [Mouse](../Mouse.md)
+LLENGUATGE [Mouse](../Mouse.md)

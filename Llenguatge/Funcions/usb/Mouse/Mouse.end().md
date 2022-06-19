@@ -1,7 +1,10 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Mouse.end() | Funcions | USB | Mouse |
+---
+títol: "Mouse.end()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "USB"
+funcio: "Mouse"
+---
 
 # Mouse.end()
 
@@ -11,11 +14,11 @@ Deixa d'emular el ratolí connectat a un ordinador. Per iniciar el control, util
 
 ### Sintaxi
 
-* `Mouse.end()`
+`Mouse.end()`
 
 ### Paràmetres
 
-* Cap
+Cap
 
 ### Devolucions
 
@@ -44,4 +47,4 @@ void loop() {
 
 ### Vegeu també
 
-* LLENGUATGE [Mouse](../Mouse.md)
+LLENGUATGE [Mouse](../Mouse.md)

@@ -1,7 +1,10 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Mouse.begin() | Funcions | USB | Mouse |
+---
+títol: "Mouse.begin"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "USB"
+funcio: "Mouse"
+---
 
 # Mouse.begin()
 
@@ -11,11 +14,11 @@ Comença a emular el ratolí connectat a un ordinador. S'ha de cridar `Mouse.beg
 
 ### Sintaxi
 
-* `Mouse.begin()`
+`Mouse.begin()`
 
 ### Paràmetres
 
-* Cap
+Cap
 
 ### Devolucions
 
@@ -40,4 +43,4 @@ void loop() {
 
 ### Vegeu també
 
-* LLENGUATGE [Mouse](../Mouse.md)
+LLENGUATGE [Mouse](../Mouse.md)

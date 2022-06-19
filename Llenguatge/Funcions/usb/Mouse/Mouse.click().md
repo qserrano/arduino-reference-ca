@@ -1,7 +1,10 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Mouse.click() | Funcions | USB | Mouse |
+---
+títol: "Mouse.click()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "USB"
+funcio: "Mouse"
+---
 
 # Mouse.click()
 
@@ -13,12 +16,12 @@ Envia un clic momentània a l'ordinador a la ubicació del cursor. Això és el 
 
 ### Sintaxi
 
-* `Mouse.click()`
-* `Mouse.click(button)`
+`Mouse.click()`  
+`Mouse.click(button)`  
 
 ### Paràmetres
 
-* `button`: quin botó del ratolí cal prémer. Tipus de dades permesos: char.
+`button`: quin botó del ratolí cal prémer. Tipus de dades permesos: char.
   - MOUSE_LEFT (predeterminat)
   - MOUSE_RIGHT
   - MOUSE_MIDDLE
@@ -52,4 +55,4 @@ Quan utilitzeu l'ordre Mouse.click(), l'Arduino es fa càrrec del vostre ratolí
 
 ### Vegeu també
 
-* LLENGUATGE [Mouse](../Mouse.md)
+LLENGUATGE [Mouse](../Mouse.md)

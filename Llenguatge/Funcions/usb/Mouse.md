@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Mouse | | Funcions | USB |
+---
+títol: "Mouse"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "USB"
+---
 
 # Mouse
 
@@ -35,4 +37,4 @@ Quan utilitzeu la biblioteca del ratolí o del teclat, potser és millor provar 
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

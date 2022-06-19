@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| Keyboard | | Funcions | USB |
+---
+títol: "Keyboard"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "USB"
+---
 
 # Keyboard
 
@@ -41,4 +43,4 @@ Funcions
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

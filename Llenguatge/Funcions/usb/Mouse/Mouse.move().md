@@ -1,7 +1,10 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Mouse.move() | Funcions | USB | Mouse |
+---
+títol: "Mouse.move()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "USB"
+funcio: "Mouse"
+---
 
 # Mouse.move()
 
@@ -11,13 +14,13 @@ Mou el cursor en un ordinador connectat. El moviment a la pantalla sempre és re
 
 ### Sintaxi
 
-* `Mouse.move(xVal, yVal, wheel)`
+`Mouse.move(xVal, yVal, wheel)`
 
 ### Paràmetres
 
-* `xVal`: quantitat a moure al llarg de l'eix x. Tipus de dades permesos: caracter signat.
-* `yVal`: quantitat a moure al llarg de l'eix y. Tipus de dades permesos: caracter signat.
-* `wheel`: quantitat per moure la roda de desplaçament. Tipus de dades permesos: caracter signat.
+`xVal`: quantitat a moure al llarg de l'eix x. Tipus de dades permesos: caracter signat.  
+`yVal`: quantitat a moure al llarg de l'eix y. Tipus de dades permesos: caracter signat.  
+`wheel`: quantitat per moure la roda de desplaçament. Tipus de dades permesos: caracter signat.  
 
 ### Devolucions
 
@@ -101,4 +104,4 @@ Quan utilitzeu l'ordre `Mouse.move()`, l'Arduino es fa càrrec del vostre ratol�
 
 ### Vegeu també
 
-* LLENGUATGE [Mouse](../Mouse.md)
+LLENGUATGE [Mouse](../Mouse.md)

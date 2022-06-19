@@ -1,7 +1,9 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Mouse.release() | Funcions | USB | Mouse |
+---
+títol: "Mouse.release()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Mouse"
+---
 
 # Mouse.release()
 
@@ -13,12 +15,12 @@ Envia un missatge que s'allibera un botó premut prèviament (invocat mitjançan
 
 ### Sintaxi
 
-* `Mouse.release()`
-* `Mouse.release (button)`
+`Mouse.release()`  
+`Mouse.release (button)`
 
 ### Paràmetres
 
-* `button`: quin botó del ratolí cal prémer. Tipus de dades permesos: char.
+`button`: quin botó del ratolí cal prémer. Tipus de dades permesos: char.  
   - MOUSE_LEFT (predeterminat)
   - MOUSE_REIGHT
   - MOUSE_MIDDLE
@@ -59,4 +61,4 @@ Quan utilitzeu l'ordre `Mouse.release()`, l'Arduino es fa càrrec del vostre rat
 
 ### Vegeu també
 
-* LLENGUATGE [Mouse](../Mouse.md)
+LLENGUATGE [Mouse](../Mouse.md)
