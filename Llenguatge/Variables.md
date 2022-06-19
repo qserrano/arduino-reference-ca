@@ -9,26 +9,26 @@ subcategoria: ""
 
 Tipus de dades i constants d'Arduino.
 
-| **Abast de variables**                         | **Tipus de dades**                              | **Conversió**                                    |
-|------------------------------------------------|-------------------------------------------------|--------------------------------------------------|
-| [const](./Abast-variable/const.md)             | [array](./Tipus-dades/array.md)                 | [(Unsigned int)](./Conversio/unsigned-int-c.md)   |
-| [scope](./Abast-variable/scope.md)             | [bool](./Tipus-dades/bool.md)                   | [(Unsigned long)](./Conversio/unsigned-long-c.md) |
-| [static](./Abast-variable/static.md)           | [boolean](./Tipus-dades/boolean.md)             | [byte()](./Conversio/byte.md)                   |
-| [volatile](./Abast-variable/volatile.md)       | [byte](./Tipus-dades/byte.md)                   | [char()](./Conversio/char.md)                   |
-|                                                | [char](./Tipus-dades/char.md)                   | [float()](./Conversio/float.md)                 |
-| **Constants**                                  | [double](./Tipus-dades/double.md)               | [int()](./Conversio/int.md)                     |
-| [de coma flotant](./Constants/coma-flotant.md) | [float](./Tipus-dades/float.md)                 | [long()](./Conversio/long.md)                   |
-| [enteres](./Constants/constants-enteres.md)    | [int](./Tipus-dades/int.md)                     | [word()](./Conversio/word.md)                   |
-| [constants](./Constants/constants.md)          | [long](./Tipus-dades/long.md)                   |                                                  |
-|                                                | [short](./Tipus-dades/short.md)                 | **Utilitats**                                    |
-|                                                | [size_t](./Tipus-dades/size_t.md)               | [PROGMEM](./Utilitats/PROGMEM.md)                |
-|                                                | [string](./Tipus-dades/string.md)               | [sizeof()](./Utilitats/PROGMEM.md)               |
-|                                                | [String()](./Tipus-dades/String().md)           |                                                  |
-|                                                | [unsigned char](./Tipus-dades/unsigned-char.md) |                                                  |
-|                                                | [unsigned int](./Tipus-dades/unsigned-int.md)   |                                                  |
-|                                                | [unsigned long](./Tipus-dades/unsigned-long.md) |                                                  |
-|                                                | [void](./Tipus-dades/void.md)                   |                                                  |
-|                                                | [word](./Tipus-dades/word.md)                   |                                                  |
+| **Abast de variables**                                   | **Tipus de dades**                                        | **Conversió**                                               |
+|----------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
+| [const](./Variables/Abast-variable/const.md)             | [array](./Variables/Tipus-dades/array.md)                 | [(Unsigned int)](./Variables/Conversio/unsigned-int-c.md)   |
+| [scope](./Variables/Abast-variable/scope.md)             | [bool](./Variables/Tipus-dades/bool.md)                   | [(Unsigned long)](./Variables/Conversio/unsigned-long-c.md) |
+| [static](./Variables/Abast-variable/static.md)           | [boolean](./Variables/Tipus-dades/boolean.md)             | [byte()](./Variables/Conversio/byte().md)                     |
+| [volatile](./Variables/Abast-variable/volatile.md)       | [byte](./Variables/Tipus-dades/byte.md)                   | [char()](./Variables/Conversio/char().md)                     |
+|                                                          | [char](./Variables/Tipus-dades/char.md)                   | [float()](./Variables/Conversio/float().md)                   |
+| **Constants**                                            | [double](./Variables/Tipus-dades/double.md)               | [int()](./Variables/Conversio/int().md)                       |
+| [de coma flotant](./Variables/Constants/coma-flotant.md) | [float](./Variables/Tipus-dades/float.md)                 | [long()](./Variables/Conversio/long().md)                     |
+| [enteres](./Variables/Constants/constants-enteres.md)    | [int](./Variables/Tipus-dades/int.md)                     | [word()](./Variables/Conversio/word().md)                     |
+| [constants](./Variables/Constants/constants.md)          | [long](./Variables/Tipus-dades/long.md)                   |                                                             |
+|                                                          | [short](./Variables/Tipus-dades/short.md)                 | **Utilitats**                                               |
+|                                                          | [size_t](./Variables/Tipus-dades/size_t.md)               | [PROGMEM](./Variables/Utilitats/PROGMEM.md)                 |
+|                                                          | [string](./Variables/Tipus-dades/string.md)               | [sizeof()](./Variables/Utilitats/sizeof().md)                |
+|                                                          | [String()](./Variables/Tipus-dades/String().md)           |                                                             |
+|                                                          | [unsigned char](./Variables/Tipus-dades/unsigned-char.md) |                                                             |
+|                                                          | [unsigned int](./Variables/Tipus-dades/unsigned-int.md)   |                                                             |
+|                                                          | [unsigned long](./Variables/Tipus-dades/unsigned-long.md) |                                                             |
+|                                                          | [void](./Variables/Tipus-dades/void.md)                   |                                                             |
+|                                                          | [word](./Variables/Tipus-dades/word.md)                   |                                                             |
 
 
 
