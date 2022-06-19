@@ -63,4 +63,4 @@ Tingueu en compte que una cadena formatada correctament acaba amb el símbol NUL
 
 ## Vegeu també
 
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)

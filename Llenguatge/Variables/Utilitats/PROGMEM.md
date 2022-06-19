@@ -146,4 +146,4 @@ s'utilitza, la cadena que s'ha d'imprimir es desa normalment a la memòria RAM. 
 EXEMPLE [Tipus de memòria disponibles en una placa Arduino](https://www.arduino.cc/playground/Learning/Memory)  
 DEFINICIÓ [array](../Tipus-dades/array.md)  
 DEFINICIÓ [string](../Tipus-dades/string.md)  
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)
