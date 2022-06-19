@@ -64,4 +64,5 @@ De manera predeterminada, una constant entera es tracta com un int amb les limit
 
 ## Vegeu també
 
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)  
+

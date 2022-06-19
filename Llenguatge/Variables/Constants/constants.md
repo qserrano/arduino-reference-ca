@@ -88,4 +88,5 @@ La majoria de plaques Arduino tenen un pin connectat a un LED integrat en sèrie
 
 ## Vegeu també
 
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)  
+

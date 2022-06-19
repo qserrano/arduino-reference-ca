@@ -28,4 +28,5 @@ Constant de coma flotant | S'evalua a | També s'evalua a
 
 ## Vegeu també
 
-LLENGUATGE [Variables](../Variables.md)
+LLENGUATGE [Variables](../../Variables.md)  
+
