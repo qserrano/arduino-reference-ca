@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| delayMicroseconds() | | Funcions | Temps |
+---
+títol: "delayMicroseconds()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Temps"
+---
 
 # delayMicroseconds()
 
@@ -13,11 +15,11 @@ Actualment, el valor més gran que produirà un retard precís és 16383; valors
 
 ### Sintaxi
 
-* `delayMicroseconds(us)`
+`delayMicroseconds(us)`
 
 ### Paràmetres
 
-* `us`: el nombre de microsegons per a fer una pausa. Tipus de dades permeses: unsigned int.
+`us`: el nombre de microsegons per a fer una pausa. Tipus de dades permeses: unsigned int.
 
 ### Devolucions
 
@@ -50,4 +52,4 @@ A partir d'Arduino 0018, `delayMicroseconds()` ja no desactiva les interrupcions
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

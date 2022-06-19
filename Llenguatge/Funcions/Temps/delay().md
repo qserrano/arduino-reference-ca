@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| delay() | | Funcions | Temps |
+---
+títol: "delay()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Temps"
+---
 
 # delay()
 
@@ -11,11 +13,11 @@ Pausa el programa per la quantitat de temps (en mil·lisegons) especificat com a
 
 ### Sintaxi
 
-* `delay (ms)`
+`delay (ms)`
 
 ### Paràmetres
 
-* `ms`: el nombre de mil·lisegons per a fer una pausa. Tipus de dades permeses: unsigned long.
+`ms`: el nombre de mil·lisegons per a fer una pausa. Tipus de dades permeses: unsigned long.
 
 ### Devolucions
 
@@ -49,5 +51,5 @@ No obstant això, unes certes coses continuen mentre la funció de `delay()` con
 
 ### Veure també
 
-* EXEMPLE [Blink Without Delay](http://arduino.cc/en/Tutorial/BlinkWithoutDelay) (en anglés)  
-* LLENGUATGE [Funcions](../Funcions.md)
+EXEMPLE [Blink Without Delay](http://arduino.cc/en/Tutorial/BlinkWithoutDelay) (en anglés)  
+LLENGUATGE [Funcions](../../Funcions.md)

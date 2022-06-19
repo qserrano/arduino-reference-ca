@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| micros() | | Funcions | Temps |
+---
+títol: "micros()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Temps"
+---
 
 # micros()
 
@@ -11,11 +13,11 @@ Retorna el nombre de microsegons des que la placa Arduino va començar a executa
 
 ### Sintaxi
 
-* `time = micros()`
+`time = micros()`
 
 ### Paràmetres
 
-* Cap
+Cap
 
 ### Devolucions
 
@@ -46,4 +48,4 @@ Hi ha 1.000 microsegons en un mil·lisegon i 1.000.000 de microsegons en un sego
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)

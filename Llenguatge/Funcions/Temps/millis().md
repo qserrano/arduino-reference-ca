@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| millis() | | Funcions | Temps |
+---
+títol: "millis()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Temps"
+---
 
 # millis()
 
@@ -11,11 +13,11 @@ Retorna el nombre de mil·lisegons passats dones que la placa Arduino va començ
 
 ### Sintaxi
 
-* `Time = millis()`
+`Time = millis()`
 
 ### Paràmetres
 
-* Cap
+Cap
 
 ### Devolucions
 
@@ -46,4 +48,4 @@ Tinga en compte que el valor de retorn per a `millis()` és de tipus unsigned lo
 
 ### Veure també
 
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [Funcions](../../Funcions.md)
