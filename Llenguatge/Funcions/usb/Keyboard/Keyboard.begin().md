@@ -1,7 +1,9 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Keyboard.begin() | Funcions | USB | Keyboard |
+---
+títol: "Keyboard.begin()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Keyboard"
+---
 
 # Keyboard.begin()
 
@@ -11,12 +13,12 @@ Quan s'utilitza amb una placa Leonardo o Due, `Keyboard.begin()` comença a emul
 
 ### Sintaxi
 
-* `Keyboard.begin()`
-* `Keyboard.begin (layout)`
+`Keyboard.begin()`  
+`Keyboard.begin (layout)`  
 
 ### Paràmetres
 
-* `layout`: la disposició del teclat a utilitzar. Aquest paràmetre és opcional i el valor predeterminat és KeyboardLayout_en_US.
+`layout`: la disposició del teclat a utilitzar. Aquest paràmetre és opcional i el valor predeterminat és KeyboardLayout_en_US.
 
 ### Disposicions del teclat
 
@@ -59,5 +61,5 @@ Es poden crear dissenys personalitzats copiant i modificant un disseny existent.
 
 ### Veure també
 
-* LLENGUATGE [Keyboard](../Keyboard.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Keyboard](../Keyboard.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)  

@@ -1,7 +1,9 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Keyboard.release() | Funcions | USB | Keyboard |
+---
+títol: "Keyboard.release()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Keyboard"
+---
 
 # Keyboard.release()
 
@@ -11,11 +13,11 @@ Allibera la tecla especificada. Vegeu `Keyboard.press()` per obtenir més inform
 
 ### Sintaxi
 
-* `Keyboard.release (key)`
+`Keyboard.release (key)`
 
 ### Paràmetres
 
-* `key`: la tecla per alliberar. Tipus de dades permesos: char.
+`key`: la tecla per alliberar. Tipus de dades permesos: char.
 
 ### Devolucions
 
@@ -59,5 +61,5 @@ void loop() {
 
 ### Veure també
 
-* LLENGUATGE [Keyboard](../Keyboard.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Keyboard](../Keyboard.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

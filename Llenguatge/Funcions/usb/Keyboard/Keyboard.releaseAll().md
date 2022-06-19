@@ -1,7 +1,9 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Keyboard.releaseAll() | Funcions | USB | Keyboard |
+---
+títol: "Keyboard.releaseAll()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Keyboard"
+---
 
 # Keyboard.releaseAll()
 
@@ -11,11 +13,11 @@ Allibera totes les tecles premudes actualment. Vegeu `Keyboard.press()` per obte
 
 ### Sintaxi
 
-* `Keyboard.releaseAll()`
+`Keyboard.releaseAll()`
 
 ### Paràmetres
 
-* Cap
+Cap
 
 ### Devolucions
 
@@ -58,5 +60,5 @@ void loop() {
 
 ### Veure també
 
-* LLENGUATGE [Keyboard](../Keyboard.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Keyboard](../Keyboard.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

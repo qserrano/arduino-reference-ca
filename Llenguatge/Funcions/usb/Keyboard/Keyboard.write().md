@@ -1,7 +1,9 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Keyboard.write() | Funcions | USB | Keyboard |
+---
+títol: "Keyboard.write()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Keyboard"
+---
 
 # Keyboard.write()
 
@@ -15,11 +17,11 @@ Per obtenir una llista completa de caràcters ASCII, consulteu [ASCIITable.com](
 
 ### Sintaxi
 
-* `Keyboard.write (character)`
+`Keyboard.write (character)`
 
 ### Paràmetres
 
-* `character`: un char o int que s'enviarà a l'ordinador. Es pot enviar amb qualsevol notació que sigui acceptable per a un char. Per exemple, tots els següents són acceptables i envien el mateix valor, 65 o ASCII A:
+`character`: un char o int que s'enviarà a l'ordinador. Es pot enviar amb qualsevol notació que sigui acceptable per a un char. Per exemple, tots els següents són acceptables i envien el mateix valor, 65 o ASCII A:
   - Keyboard.write(65); // envia el valor ASCII 65, o A
   - Keyboard.write('A'); // el mateix que un caràcter citat
   - Keyboard.write(0x41); // el mateix en hexadecimal
@@ -57,5 +59,5 @@ Quan utilitzeu l'ordre `Keyboard.write()`, l'Arduino es fa càrrec del vostre te
 
 ### Veure també
 
-* LLENGUATGE [Keyboard](../Keyboard.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Keyboard](../Keyboard.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

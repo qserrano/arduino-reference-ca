@@ -1,7 +1,9 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Keyboard.println() | Funcions | USB | Keyboard |
+---
+títol: "Keyboard.println()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Keyboard"
+---
 
 # Keyboard.println()
 
@@ -13,14 +15,14 @@ Envia una o més pulsacions de tecles a un ordinador connectat, seguida d'una pu
 
 ### Sintaxi
 
-* `Keyboard.println()`
-* `Keyboard.println(character)`
-* `Keyboard.println(characters)`
+`Keyboard.println()`  
+`Keyboard.println(character)`  
+`Keyboard.println(characters)`  
 
 ### Paràmetres
 
-* `character`: un caràcter o int que s'enviarà a l'ordinador com a pulsació de tecla, seguit d'Enter.
-* `characters`: una cadena que s'enviarà a l'ordinador com a pulsacions de tecles, seguida de Intro.
+`character`: un caràcter o int que s'enviarà a l'ordinador com a pulsació de tecla, seguit d'Enter.  
+`characters`: una cadena que s'enviarà a l'ordinador com a pulsacions de tecles, seguida de Intro.  
 
 ### Devolucions
 
@@ -54,5 +56,5 @@ Quan utilitzeu l'ordre `Keyboard.println()`, l'Arduino es fa càrrec del vostre 
 
 ### Veure també
 
-* LLENGUATGE [Keyboard](../Keyboard.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Keyboard](../Keyboard.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)

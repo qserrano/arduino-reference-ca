@@ -1,7 +1,9 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Keyboard.end() | Funcions | USB | Keyboard |
+---
+títol: "Keyboard.end()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Keyboard"
+---
 
 # Keyboard.end()
 
@@ -11,11 +13,11 @@ Atura l'emulació del teclat a un ordinador connectat. Per iniciar l'emulació d
 
 ### Sintaxi
 
-* `Keyboard.end()`
+`Keyboard.end()`
 
 ### Paràmetres
 
-* Cap
+Cap
 
 ### Devolucions
 
@@ -41,5 +43,5 @@ void loop() {
 ```
 ### Veure també
 
-* LLENGUATGE [Keyboard](../Keyboard.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Keyboard](../Keyboard.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)  

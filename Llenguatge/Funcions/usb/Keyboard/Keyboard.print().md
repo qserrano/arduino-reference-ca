@@ -1,7 +1,9 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Keyboard.print() | Funcions | USB | Keyboard |
+---
+títol: "Keyboard.print()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Keyboard"
+---
 
 # Keyboard.print()
 
@@ -13,13 +15,13 @@ Envia una o més pulsacions de tecles a un ordinador connectat.
 
 ### Sintaxi
 
-* `Keyboard.print(character)`
-* `Keyboard.print(characters)`
+`Keyboard.print(character)`  
+`Keyboard.print(characters)`  
 
 ### Paràmetres
 
-* `character`: un char o int que s'enviarà a l'ordinador com a tecla.
-* `characters`: una cadena que s'enviarà a l'ordinador com a pulsacions de tecles.
+`character`: un char o int que s'enviarà a l'ordinador com a tecla.  
+`characters`: una cadena que s'enviarà a l'ordinador com a pulsacions de tecles.  
 
 ### Devolucions
 
@@ -53,5 +55,5 @@ Quan utilitzeu l'ordre `Keyboard.print()`, l'Arduino es fa càrrec del vostre te
 
 ### Veure també
 
-* LLENGUATGE [Keyboard](../Keyboard.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Keyboard](../Keyboard.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)  

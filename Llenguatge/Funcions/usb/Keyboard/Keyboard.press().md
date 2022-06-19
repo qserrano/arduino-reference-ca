@@ -1,7 +1,9 @@
-
-| títol | categoria  | subcategoria | subfunció |
-| :---: | :--------: | :----------: | :-------: |
-| Keyboard.press() | Funcions | USB | Keyboard |
+---
+títol: "Keyboard.press()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Keyboard"
+---
 
 #Keyboard.press()
 
@@ -13,11 +15,11 @@ Cal cridar a `Keyboard.begin()` abans d'utilitzar press().
 
 ### Sintaxi
 
-* `Keyboard.press(key)`
+`Keyboard.press(key)`
 
 ### Paràmetres
 
-* `key`: la tecla a prémer. Tipus de dades permesos: char.
+`key`: la tecla a prémer. Tipus de dades permesos: char.
 
 ### Devolucions
 
@@ -59,5 +61,5 @@ void loop() {
 ```
 ### Veure també
 
-* LLENGUATGE [Keyboard](../Keyboard.md)
-* LLENGUATGE [Funcions](../../Funcions.md)
+LLENGUATGE [Keyboard](../Keyboard.md)  
+LLENGUATGE [Funcions](../../../Funcions.md)  
