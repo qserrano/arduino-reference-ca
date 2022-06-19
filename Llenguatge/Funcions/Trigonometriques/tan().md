@@ -1,7 +1,9 @@
-
-| títol | descripció   | categoria  | subcategoria        |
-| :---: | :----------: | :--------: | :-----------------: |
-| tan() | | Funcions | Trigonométriques |
+---
+títol: "tan()"
+descripció: ""
+categoria: "Funcions"
+subcategoria: "Trigonometriques"
+---
 
 # tan()
 
@@ -11,11 +13,11 @@ Calcula la tangent d'un angle (en radians). El resultat estarà entre infinit i 
 
 ### Sintaxi
 
-* `tan(rad)`
+`tan(rad)`
 
 ### Paràmetres
 
-* `rad`: l'angle en radians. Tipus de dades permesos: float.
+`rad`: l'angle en radians. Tipus de dades permesos: float.
 
 ### Devolucions
 
@@ -23,6 +25,6 @@ La tangent de l'angle. Tipus de dades: double.
 
 ### Veure també
 
-* LLENGUATGE [float](../../Variables/Tipus-dades/float.md)  
-* LLENGUATGE [double](../../Variables/Tipus-dades/double.md)  
-* LLENGUATGE [Funcions](../Funcions.md)
+LLENGUATGE [float](../../Variables/Tipus-dades/float.md)  
+LLENGUATGE [double](../../Variables/Tipus-dades/double.md)  
+LLENGUATGE [Funcions](../../Funcions.md)
