@@ -1,3 +1,10 @@
+---
+títol: Funcions
+descripció: ""
+categoria: "Funcions"
+subcategoria: ""
+---
+
 # Funcions
 
 Per controlar la placa Arduino i realitzar càlculs.
@@ -36,4 +43,4 @@ Per controlar la placa Arduino i realitzar càlculs.
 
 ## Vegeu també
 
-INDEX [README.md](../../README.md)
+INDEX [README.md](../README.md)

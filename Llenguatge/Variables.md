@@ -1,3 +1,10 @@
+---
+títol: Variables
+descripció: ""
+categoria: "Variables"
+subcategoria: ""
+---
+
 # Variables
 
 Tipus de dades i constants d'Arduino.
@@ -27,4 +34,4 @@ Tipus de dades i constants d'Arduino.
 
 ## Vegeu també
 
-[README](../../README.md)
+INDEX [README.md](../README.md)
